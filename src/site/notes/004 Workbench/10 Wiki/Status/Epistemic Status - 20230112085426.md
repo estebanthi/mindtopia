@@ -13,10 +13,12 @@ One funny thing is that even the epistemic status of epistemic statuses is subje
 
 ## Levels
 ---
-The [[004 Workbench/10 Wiki/Status/Epistemic Status - 20230112085426\|Epistemic Status]] of my notes can be described as the following levels: [[004 Workbench/10 Wiki/Status/Embryo - 20230112084920\|Embryo]] -> [[004 Workbench/10 Wiki/Status/Germinating - 20230114013357\|Germinating]] -> [[004 Workbench/10 Wiki/Status/Mature - 20230114013734\|Mature]] -> [[004 Workbench/10 Wiki/Status/Rejuvenated - 20230114014237\|Rejuvenated]] -> [[004 Workbench/10 Wiki/Status/Withered - 20230114014617\|Withered]]
+The [[004 Workbench/10 Wiki/Status/Epistemic Status - 20230112085426\|Epistemic Status]] of my notes can be described with the following levels: [[004 Workbench/10 Wiki/Status/Embryo - 20230112084920\|Embryo]] -> [[004 Workbench/10 Wiki/Status/Germinating - 20230114013357\|Germinating]] -> [[004 Workbench/10 Wiki/Status/Mature - 20230114013734\|Mature]] -> [[004 Workbench/10 Wiki/Status/Rejuvenated - 20230114014237\|Rejuvenated]] -> [[004 Workbench/10 Wiki/Status/Withered - 20230114014617\|Withered]]
 { #4390be}
 
 
 
 ###### META
 Status:: #wiki/germinating
+Plantations:: 
+References:: 
