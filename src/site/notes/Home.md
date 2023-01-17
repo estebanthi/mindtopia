@@ -22,6 +22,8 @@
 [[20 Me/27 Hubs/Life Hub\|💖 Life]]
 [[20 Me/27 Hubs/Media Hub\|🖇️ Media]]
 [[20 Me/27 Hubs/Piano Hub\|🎹 Piano]]
+[[20 Me/27 Hubs/Workout Hub\|🏃 Workout]]
+[[20 Me/27 Hubs/Dreams Hub\|💭 Dreams]]
 
 ### Index
 [[20 Me/23 Routines/_INDEX\|♻️ Routines]]
