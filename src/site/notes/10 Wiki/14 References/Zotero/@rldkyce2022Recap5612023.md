@@ -20,6 +20,7 @@ In short:
 -   What makes them the same
 -   Create rules to eliminate losers
 -   Create rules to increase winners
+
 We have to identify patterns.
 
 
