@@ -61,3 +61,13 @@
 ❌ -> **NOK**
 🎵 -> **Impro**
 🎼 -> **Technique**
+
+## Workout Log
+🏃 -> **Running**
+🥊 -> **MMA/Punching Bag**
+💪 -> **Bodybuilding**
+
+## Dream Log
+💤 -> **No dreams**
+✨ -> **Dream**
+🗻 -> **[[100 Zettelkasten/Lucid Dream\|Lucid Dream]]**
