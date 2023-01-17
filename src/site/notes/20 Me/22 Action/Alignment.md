@@ -9,7 +9,6 @@
 | File                                                                            | Completed |
 | ------------------------------------------------------------------------------- | --------- |
 | [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]]     | \-        |
-| [[20 Me/22 Action/Goals/Goals\|Goals]]                                       | \-        |
 | [[20 Me/22 Action/Goals/Things to Do in my Life\|Things to Do in my Life]]   | \-        |
 | [[20 Me/22 Action/Goals/Things to See in my Life\|Things to See in my Life]] | \-        |
 
@@ -33,7 +32,6 @@
 ## ◎ MILESTONES
 | File                                                                         | Project                                                                                  | Completed | Deadline |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- | -------- |
-| [[20 Me/22 Action/Milestones/Milestones\|Milestones]]                     | \-                                                                                       | \-        | \-       |
 | [[20 Me/22 Action/Milestones/Reach 1000 Followers\|Reach 1000 Followers]] | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | \-        | \-       |
 | [[20 Me/22 Action/Milestones/Categories Page\|Categories Page]]           | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-       |
 | [[20 Me/22 Action/Milestones/Views Page\|Views Page]]                     | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-       |
