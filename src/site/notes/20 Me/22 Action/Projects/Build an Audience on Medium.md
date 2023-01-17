@@ -4,6 +4,10 @@
 
 # Build an Audience on Medium
 ---
+## Ideas
+
+
+## Tasks
 
 
 
