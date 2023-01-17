@@ -7,8 +7,6 @@
 ---
 ##  ↻ LOGS
 
-
-
 ## ✓ TASKS
 
 ###  ↑ TOP TASKS
