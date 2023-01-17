@@ -27,6 +27,7 @@
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
 | [[10 Wiki/14 References/Zotero/@hackerDashboardSimpleOrganization2022\|@hackerDashboardSimpleOrganization2022]] | #wiki/references/zotero/online |
 | [[10 Wiki/14 References/Zotero/@rldkyce2022Recap5612023\|@rldkyce2022Recap5612023]]                             | #wiki/references/zotero/online |
+| [[10 Wiki/14 References/Zotero/@cranky_cryptoMathChecksOut2022\|@cranky_cryptoMathChecksOut2022]]               | #wiki/references/zotero/online |
 
 
 
