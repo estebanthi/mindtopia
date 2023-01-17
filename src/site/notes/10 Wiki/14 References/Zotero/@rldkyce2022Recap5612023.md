@@ -36,5 +36,6 @@ Year:: 2022
 
 Consumed:: true
 Reconsume:: 
-Rating:: 1
+Rating:: 
 Priority:: 
+Favorite:: 
