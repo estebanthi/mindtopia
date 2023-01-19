@@ -14,6 +14,6 @@
 Status:: #action/milestone 
 Related:: 
 
-Completed:: 
+Completed:: true
 Deadline:: 2023-01-20
 Project:: [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]]
