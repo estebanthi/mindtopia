@@ -4,6 +4,12 @@
 
 # Dreams Analyzer
 ---
+## Milestones
+| File                                                               | Completed | Deadline |
+| ------------------------------------------------------------------ | --------- | -------- |
+| [[20 Me/22 Action/Milestones/Categories Page\|Categories Page]] | \-        | \-       |
+| [[20 Me/22 Action/Milestones/Views Page\|Views Page]]           | \-        | \-       |
+
 
 
 
