@@ -42,8 +42,8 @@ short mode
 ## Habits
 ```tasks
 not done
-due date before today
 tags include tasks/habit
+(due before today) OR (due today)
 short mode
 ```
 
