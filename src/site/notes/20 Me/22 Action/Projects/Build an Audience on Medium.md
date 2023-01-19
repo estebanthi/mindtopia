@@ -4,6 +4,13 @@
 
 # Build an Audience on Medium
 ---
+## Milestones
+| File                                                                         | Completed | Deadline |
+| ---------------------------------------------------------------------------- | --------- | -------- |
+| [[20 Me/22 Action/Milestones/Reach 1000 Followers\|Reach 1000 Followers]] | \-        | \-       |
+
+
+
 ## Ideas
 - 2023-01-19 10:08 - Some quests for lucid dreams
 - 2023-01-19 10:34 - What is a digital garden?
