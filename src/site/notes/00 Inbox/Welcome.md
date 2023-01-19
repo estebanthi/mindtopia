@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-inbox/welcome/"}
+{"dg-publish":true,"permalink":"/00-inbox/welcome/","tags":["gardenEntry"]}
 ---
 
 # Welcome
@@ -39,4 +39,4 @@ From a technical point of view, this vault is a website and not a real [[Obsidia
 > 	- [[About\|About]]
 > 	- [[Contact Me\|Contact Me]]
 > 	- [[Roadmap\|Roadmap]]
-> 	- [[Supporting Me\|Supporting Me]]
+> 	- [[Support Me\|Support Me]]
