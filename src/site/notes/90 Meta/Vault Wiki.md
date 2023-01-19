@@ -32,6 +32,7 @@
 🎶 -> **Music**
 🏋️ -> **Sport**
 🎨 -> **Art**
+🔭 -> **Science**
 
 ## Personal Projects
 💡 -> **Ideas**
