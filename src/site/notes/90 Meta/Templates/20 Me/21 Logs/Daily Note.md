@@ -5,7 +5,7 @@
 ###### [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>\|↶ YESTERDAY]] ⁝ [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>\|TOMORROW ↷]]
 # ◌ <% tp.date.now("dddd - MMMM Do YYYY") %>
 ---
-##  ↻ LOGS
+## ↻ LOGS
 
 ## ✓ TASKS
 
