@@ -31,5 +31,5 @@ Currently, most of my time is at school as I'm still a student.
 | ---- | ---- |
 
 
-## Current [[20 Me/24 Workflows/ZK\|Zettelkasten]] Work
+## Current [[Zettelkasten\|ZK]] Work
 
