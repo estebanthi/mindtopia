@@ -4,10 +4,8 @@
 
 # Now
 ---
-Currently, most of my time is at school as I'm still a student. 
+Currently, most of my time is spent at school as I'm still a student. 
 
-> [!NOTE]
-> Test callout
 
 ## Projects
 - [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]
