@@ -36,9 +36,9 @@ Depending on what's your purpose by exploring this vault, here are some interest
 	- [[ZK Index\|ZK Index]]
 	- [[Featured\|Featured]]
 	- [[Random\|Random]]
-- Other:
+- To know more about me:
 	- [[30 Public/31 Start Here/Now\|Now]]
 	- [[About\|About]]
-	- [[Contact Me\|Contact Me]]
+	- [[30 Public/31 Start Here/Contact Me\|Contact Me]]
 	- [[Roadmap\|Roadmap]]
 	- [[Support Me\|Support Me]]
