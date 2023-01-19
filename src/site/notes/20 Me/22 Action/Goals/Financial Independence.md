@@ -4,6 +4,11 @@
 
 # Financial Independence
 ---
+## Projects
+| File                                                                                     | Completed | Deadline |
+| ---------------------------------------------------------------------------------------- | --------- | -------- |
+| [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | \-        | \-       |
+
 
 
 
