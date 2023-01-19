@@ -4,6 +4,10 @@
 
 # Obsidian Reminders
 ---
+## Milestones
+| File | Completed | Deadline |
+| ---- | --------- | -------- |
+
 
 
 
