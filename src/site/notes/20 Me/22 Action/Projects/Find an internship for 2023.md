@@ -4,6 +4,11 @@
 
 # Find an internship for 2023
 ---
+## Milestones
+| File                                                                                               | Completed | Deadline         |
+| -------------------------------------------------------------------------------------------------- | --------- | ---------------- |
+| [[20 Me/22 Action/Milestones/Review resume and cover letters\|Review resume and cover letters]] | true      | January 20, 2023 |
+| [[20 Me/22 Action/Milestones/Send 10 Applications\|Send 10 Applications]]                       | \-        | January 20, 2023 |
 
 
 
