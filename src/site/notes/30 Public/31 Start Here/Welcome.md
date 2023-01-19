@@ -27,12 +27,12 @@ Depending on what's your purpose by exploring this vault, here are some interest
 
 - [[Navigate through this Website\|Navigate through this Website]]
 - To understand how I've set up my [[Second Brain\|Second Brain]]/[[Digital Garden\|Digital Garden]]:
-	- [[My Obsidian Workflow\|My Obsidian Workflow]]
+	- [[20 Me/24 Workflows/My Obsidian Workflow\|My Obsidian Workflow]]
 	- [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
 	- [[How I Made this Website\|How I Made this Website]]
 - To explore my knowledge-related notes:
 	- [[Zettelkasten\|Zettelkasten]]
-	- [[My Zettelkasten Workflow\|My Zettelkasten Workflow]]
+	- [[20 Me/24 Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]]
 	- [[ZK Index\|ZK Index]]
 	- [[Featured\|Featured]]
 	- [[Random\|Random]]
