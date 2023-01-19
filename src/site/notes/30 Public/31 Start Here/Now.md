@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-public/31-start-here/now/","tags":["working-on"]}
+{"dg-publish":true,"permalink":"/30-public/31-start-here/now/"}
 ---
 
 # Now
@@ -29,5 +29,4 @@ Currently, most of my time is at school as I'm still a student.
 
 
 ## Current [[20 Me/24 Workflows/ZK\|Zettelkasten]] Work
-- [[30 Public/31 Start Here/Now\|Now]]
 
