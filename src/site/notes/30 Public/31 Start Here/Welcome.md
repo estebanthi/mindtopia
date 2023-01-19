@@ -37,6 +37,7 @@ Depending on what's your purpose by exploring this vault, here are some interest
 	- [[Featured\|Featured]]
 	- [[Random\|Random]]
 - Other:
+	- [[30 Public/31 Start Here/Now\|Now]]
 	- [[About\|About]]
 	- [[Contact Me\|Contact Me]]
 	- [[Roadmap\|Roadmap]]
