@@ -8,7 +8,8 @@
 
 
 ###### TASKS
-- [ ] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19
+- [ ] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-20 📅 2023-01-20
+- [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-17
 - [ ] 🎹 Piano #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19
