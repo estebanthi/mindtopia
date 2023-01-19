@@ -23,6 +23,7 @@
 | [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]                   | \-                                                                          | \-        | \-                |
 | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]] | \-        | \-                |
 | [[20 Me/22 Action/Projects/Play Liebestraum No. 3\|Play Liebestraum No. 3]]           | \-                                                                          | \-        | February 01, 2023 |
+| [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]] | \-                                                                          | \-        | March 01, 2023    |
 | [[20 Me/22 Action/Projects/Play Etude Op. 10 No. 12\|Play Etude Op. 10 No. 12]]       | \-                                                                          | \-        | April 01, 2023    |
 | [[20 Me/22 Action/Projects/Run Paris Marathon\|Run Paris Marathon]]                   | \-                                                                          | \-        | April 01, 2023    |
 
@@ -30,11 +31,12 @@
 
 
 ## ◎ MILESTONES
-| File                                                                         | Project                                                                                  | Completed | Deadline |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- | -------- |
-| [[20 Me/22 Action/Milestones/Reach 1000 Followers\|Reach 1000 Followers]] | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | \-        | \-       |
-| [[20 Me/22 Action/Milestones/Categories Page\|Categories Page]]           | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-       |
-| [[20 Me/22 Action/Milestones/Views Page\|Views Page]]                     | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-       |
+| File                                                                                               | Project                                                                                  | Completed | Deadline         |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- | ---------------- |
+| [[20 Me/22 Action/Milestones/Reach 1000 Followers\|Reach 1000 Followers]]                       | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | \-        | \-               |
+| [[20 Me/22 Action/Milestones/Views Page\|Views Page]]                                           | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-               |
+| [[20 Me/22 Action/Milestones/Categories Page\|Categories Page]]                                 | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-        | \-               |
+| [[20 Me/22 Action/Milestones/Review resume and cover letters\|Review resume and cover letters]] | [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]] | \-        | January 20, 2023 |
 
 { #c52c1d}
 
