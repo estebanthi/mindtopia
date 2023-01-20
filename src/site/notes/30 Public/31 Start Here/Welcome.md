@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/30-public/31-start-here/welcome/","tags":["gardenEntry"]}
 ---
 
-# Welcome
+# Welcome to Mindtopia
 ---
-Hello and welcome to the public version of my [[Obsidian\|Obsidian]] vault! I've made this vault to showcase how I use [[Obsidian\|Obsidian]] and to **share my knowledge**. You can also find more personal stuff such as my projects or my workflows.
+Hello and welcome to Mindtopia, the public version of my [[Obsidian\|Obsidian]] vault! I've made this vault to showcase how I use [[Obsidian\|Obsidian]] and to **share my knowledge**. You can also find more personal stuff such as my projects or my workflows.
 
 ## Some things to know
 From a technical point of view, this vault is a website and not a real [[Obsidian\|Obsidian]] vault (check [[How I Made this Website\|How I Made this Website]]). So, some details are hidden such as metadata. Also, plugins don't work so you can sometimes see strange things in my notes.
@@ -25,7 +25,7 @@ Anyway, I hope most of you will find it useful!
 ## Where do I start?
 Depending on what's your purpose by exploring this vault, here are some interesting links for you:
 
-- [[Navigate through this Website\|Navigate through this Website]]
+- [[00 Inbox/Navigate through this Website\|Navigate through this Website]]
 - To understand how I've set up my [[Second Brain\|Second Brain]]/[[Digital Garden\|Digital Garden]]:
 	- [[20 Me/24 Workflows/My Obsidian Workflow\|My Obsidian Workflow]]
 	- [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
@@ -38,7 +38,7 @@ Depending on what's your purpose by exploring this vault, here are some interest
 	- [[Random\|Random]]
 - To know more about me:
 	- [[30 Public/31 Start Here/Now\|Now]]
-	- [[About\|About]]
+	- [[30 Public/31 Start Here/About Me\|About Me]]
 	- [[30 Public/31 Start Here/Contact Me\|Contact Me]]
-	- [[Roadmap\|Roadmap]]
-	- [[Support Me\|Support Me]]
+	- [[30 Public/31 Start Here/Roadmap\|Roadmap]]
+	- [[30 Public/31 Start Here/Support Me\|Support Me]]
