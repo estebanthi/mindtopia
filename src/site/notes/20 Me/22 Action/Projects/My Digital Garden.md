@@ -11,7 +11,7 @@
 
 
 ## Tasks
-- [ ] Rewrite my Zettelkasten workflow note 📅 2023-01-20
+- [x] Rewrite my Zettelkasten workflow note 📅 2023-01-20 ✅ 2023-01-20
 
 
 
