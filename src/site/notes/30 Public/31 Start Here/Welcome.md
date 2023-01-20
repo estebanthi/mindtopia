@@ -4,7 +4,7 @@
 
 # Welcome to Mindtopia
 ---
-Hello and welcome to Mindtopia, the public version of my [[Obsidian\|Obsidian]] vault! I've made this vault to showcase how I use [[Obsidian\|Obsidian]] and to **share my knowledge**. You can also find more personal stuff such as my projects or my workflows.
+Hello and welcome to **Mindtopia**, the public version of my [[Obsidian\|Obsidian]] vault! I've made this vault to showcase how I use [[Obsidian\|Obsidian]] and to **share my knowledge**. You can also find more personal stuff such as my projects or my workflows.
 
 ## Some things to know
 From a technical point of view, this vault is a website and not a real [[Obsidian\|Obsidian]] vault (check [[30 Public/31 Start Here/How I Made this Website\|How I Made this Website]]). So, some details are hidden such as metadata. Also, plugins don't work so you can sometimes see strange things in my notes.
