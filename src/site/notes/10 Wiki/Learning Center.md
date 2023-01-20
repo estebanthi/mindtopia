@@ -4,6 +4,8 @@
 
 # Learning Center
 ---
+I use this note to keep track of the things I need to read/watch/listen. It allows me to capture references I can't consume instantly and don't forget them.
+
 ## Watch list
 | File | Type | Priority |
 | ---- | ---- | -------- |
