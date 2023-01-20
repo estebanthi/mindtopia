@@ -7,7 +7,7 @@
 Hello and welcome to Mindtopia, the public version of my [[Obsidian\|Obsidian]] vault! I've made this vault to showcase how I use [[Obsidian\|Obsidian]] and to **share my knowledge**. You can also find more personal stuff such as my projects or my workflows.
 
 ## Some things to know
-From a technical point of view, this vault is a website and not a real [[Obsidian\|Obsidian]] vault (check [[How I Made this Website\|How I Made this Website]]). So, some details are hidden such as metadata. Also, plugins don't work so you can sometimes see strange things in my notes.
+From a technical point of view, this vault is a website and not a real [[Obsidian\|Obsidian]] vault (check [[30 Public/31 Start Here/How I Made this Website\|How I Made this Website]]). So, some details are hidden such as metadata. Also, plugins don't work so you can sometimes see strange things in my notes.
 
 This vault is public, **all the things here are things I want to share**. It means there are things I don't want to share, so some links or things might not work or be inaccessible for you.
 
@@ -25,17 +25,16 @@ Anyway, I hope most of you will find it useful!
 ## Where do I start?
 Depending on what's your purpose by exploring this vault, here are some interesting links for you:
 
-- [[00 Inbox/Navigate through this Website\|Navigate through this Website]]
+- [[30 Public/31 Start Here/Navigate through this Website\|Navigate through this Website]]
 - To understand how I've set up my [[Second Brain\|Second Brain]]/[[Digital Garden\|Digital Garden]]:
 	- [[20 Me/24 Workflows/My Obsidian Workflow\|My Obsidian Workflow]]
 	- [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
-	- [[How I Made this Website\|How I Made this Website]]
+	- [[30 Public/31 Start Here/How I Made this Website\|How I Made this Website]]
 - To explore my knowledge-related notes:
-	- [[Zettelkasten\|Zettelkasten]]
 	- [[20 Me/24 Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]]
-	- [[ZK Index\|ZK Index]]
-	- [[Featured\|Featured]]
-	- [[Random\|Random]]
+	- [[10 Wiki/ZK Index\|ZK Index]]
+	- [[10 Wiki/Featured\|Featured]]
+	- [[10 Wiki/Random\|Random]]
 - To know more about me:
 	- [[30 Public/31 Start Here/Now\|Now]]
 	- [[30 Public/31 Start Here/About Me\|About Me]]
