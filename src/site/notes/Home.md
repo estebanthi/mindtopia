@@ -5,6 +5,9 @@
 # Home
 ---
 ## Public
+[[30 Public/31 Start Here/Welcome\|👋 Welcome]]
+[[30 Public/31 Start Here/Now\|⏳ Now]]
+[[30 Public/31 Start Here/Contact Me\|📨 Contact Me]]
 [[90 Meta/Vault Wiki\|🗒️ Vault Wiki]]
 
 ## Me
