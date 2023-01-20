@@ -25,6 +25,7 @@
 ## 🛳️ Personal Projects
 | File                                                | Log                                                                                                                                                                                                           |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[20 Me/21 Logs/2023/01/2023-01-20\|2023-01-20]] | ✅ Finished my "Start Here" notes                                                                                                                                                                              |
 | [[20 Me/21 Logs/2023/01/2023-01-19\|2023-01-19]] | <ul><li>✅ Some more work on [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]</li><li>✅ Worked on [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]] (done Welcome and Now notes)</li><li>✅ Sent 5 Internship Applications</li><li>✅ Wrote 2 Medium articles</li></ul> |
 | [[20 Me/21 Logs/2023/01/2023-01-17\|2023-01-17]] | ✍️ Worked on [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]                                                                                                                                                                            |
 
