@@ -5,7 +5,7 @@
 # Vault Wiki
 ---
 ## File names
-@ -> Citations
+@ -> From Zotero
 
 ## ZK
 🌱 -> [[10 Wiki/Status/Embryo - 20230112084920\|Embryo]]
@@ -72,3 +72,7 @@
 💤 -> **No dreams**
 ✨ -> **Dream**
 🗻 -> **[[100 Zettelkasten/Lucid Dream\|Lucid Dream]]**
+
+## References
+Priority -> From 1 (low) to 3 (high)
+Rating -> From 1 (don't liked) to 10 (loved)
