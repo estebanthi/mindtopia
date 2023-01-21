@@ -16,7 +16,7 @@ Status:: #wiki/references/omdb/series
 Related:: 
 
 Link:: https://www.imdb.com/title/tt14852808/
-Author:: [[{{ INVALID TEMPLATE TAG - object undefined }}\|{{ INVALID TEMPLATE TAG - object undefined }}]]
+Author:: 
 Year:: 2022–
 
 Priority:: 
