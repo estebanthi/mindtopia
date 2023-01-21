@@ -25,4 +25,4 @@ Consumed:: true
 Reconsume:: 
 
 Rating:: 6.5
-Favorite:: 
+Favorite:: false
