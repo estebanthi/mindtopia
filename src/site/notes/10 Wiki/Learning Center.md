@@ -7,71 +7,14 @@
 I use this note to keep track of the things I need to read/watch/listen. It allows me to capture references I can't consume instantly and don't forget them.
 
 ## Watch list
-| File                                                                                                                                                  | Type                       | Priority |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------- |
-| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century\|21 Lessons for the 21st Century]]                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/A Brief History of Time\|A Brief History of Time]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Atomic Habits\|Atomic Habits]]                                                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Automate the Boring Stuff with Python\|Automate the Boring Stuff with Python]]                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Beyond Good and Evil\|Beyond Good and Evil]]                                                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Brief Answers to the Big Questions\|Brief Answers to the Big Questions]]                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Building Winning Algorithmic Trading Systems\|Building Winning Algorithmic Trading Systems]]                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Clean Code\|Clean Code]]                                                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Code Complete\|Code Complete]]                                                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Cryptoassets\|Cryptoassets]]                                                                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Deep Work\|Deep Work]]                                                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Design Patterns\|Design Patterns]]                                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Dive Into Design Patterns\|Dive Into Design Patterns]]                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Drawing for the Absolute Beginner\|Drawing for the Absolute Beginner]]                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Dreams of Awakening\|Dreams of Awakening]]                                                                       | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Exploring the World of Lucid Dreaming\|Exploring the World of Lucid Dreaming]]                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Fluent Python\|Fluent Python]]                                                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Head First Design Patterns\|Head First Design Patterns]]                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Homo Deus\|Homo Deus]]                                                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Fundamentals of Physics\|Fundamentals of Physics]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Influence et manipulation\|Influence et manipulation]]                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Introduction to Algorithms\|Introduction to Algorithms]]                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Keys to Drawing\|Keys to Drawing]]                                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/L'art du trading\|L'art du trading]]                                                                             | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/L'Univers à portée de main\|L'Univers à portée de main]]                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/La lecture rapide\|La lecture rapide]]                                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/La Bourse pour les nuls\|La Bourse pour les nuls]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/La semaine de 4 heures\|La semaine de 4 heures]]                                                                 | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Labyrinthes\|Labyrinthes]]                                                                                       | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion\|Le Manuel de Pilotage d'Avion]]                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Mastering Machine Learning with scikit-learn\|Mastering Machine Learning with scikit-learn]]                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Mécanique Quantique - Tome 1\|Mécanique Quantique - Tome 1]]                                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Naked Forex\|Naked Forex]]                                                                                       | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Nous ne sommes pas ce que la science à dit de nous\|Nous ne sommes pas ce que la science à dit de nous]]         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Parallel Worlds\|Parallel Worlds]]                                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Physics of the Impossible\|Physics of the Impossible]]                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Réussir son référencement web - Edition 2020-2021\|Réussir son référencement web - Edition 2020-2021]]           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Père riche, père pauvre\|Père riche, père pauvre]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Sapiens\|Sapiens]]                                                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Steve Jobs\|Steve Jobs]]                                                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Basics of Bitcoins and Blockchains\|The Basics of Bitcoins and Blockchains]]                                 | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Elliott Wave Principle\|The Elliott Wave Principle]]                                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Extended Phenotype\|The Extended Phenotype]]                                                                 | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Phase\|The Phase]]                                                                                           | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Miracle Morning\|The Miracle Morning]]                                                                       | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Old Man and the Sea\|The Old Man and the Sea]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Principles of Beautiful Web Design\|The Principles of Beautiful Web Design]]                                 | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/The Selfish Gene\|The Selfish Gene]]                                                                             | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Thinking, Fast and Slow\|Thinking, Fast and Slow]]                                                               | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Tout le monde n'a pas eu la chance de rater ses études\|Tout le monde n'a pas eu la chance de rater ses études]] | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Train d'enfer pour Ange rouge\|Train d'enfer pour Ange rouge]]                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Trading in the Zone\|Trading in the Zone]]                                                                       | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Unlimited Memory\|Unlimited Memory]]                                                                             | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Visual Guide to Elliott Wave Trading\|Visual Guide to Elliott Wave Trading]]                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Ultimate Guide to Google AdWords\|Ultimate Guide to Google AdWords]]                                             | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Why Evolution Is True\|Why Evolution Is True]]                                                                   | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Why We Sleep\|Why We Sleep]]                                                                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Wonders of the Solar System\|Wonders of the Solar System]]                                                       | #wiki/references/goodreads | \-       |
+| File | Type | Priority |
+| ---- | ---- | -------- |
 
 
 ## To reconsume
-| File | Type | Author |
-| ---- | ---- | ------ |
+| File                                                           | Type                        | Author                                   |
+| -------------------------------------------------------------- | --------------------------- | ---------------------------------------- |
+| [[10 Wiki/14 References/OMDb/@Tenet - 2020\|@Tenet - 2020]] | #wiki/references/omdb/movie | [[Christopher Nolan\|Christopher Nolan]] |
 
 
 
@@ -83,73 +26,46 @@ I use this note to keep track of the things I need to read/watch/listen. It allo
 
 
 ### All
-| File                                                                                                                                                  | Type                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century\|21 Lessons for the 21st Century]]                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/A Brief History of Time\|A Brief History of Time]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Atomic Habits\|Atomic Habits]]                                                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Automate the Boring Stuff with Python\|Automate the Boring Stuff with Python]]                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Beyond Good and Evil\|Beyond Good and Evil]]                                                                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Brief Answers to the Big Questions\|Brief Answers to the Big Questions]]                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Building Winning Algorithmic Trading Systems\|Building Winning Algorithmic Trading Systems]]                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Clean Code\|Clean Code]]                                                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Code Complete\|Code Complete]]                                                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Cryptoassets\|Cryptoassets]]                                                                                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Deep Work\|Deep Work]]                                                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Design Patterns\|Design Patterns]]                                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Dive Into Design Patterns\|Dive Into Design Patterns]]                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Drawing for the Absolute Beginner\|Drawing for the Absolute Beginner]]                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Dreams of Awakening\|Dreams of Awakening]]                                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Exploring the World of Lucid Dreaming\|Exploring the World of Lucid Dreaming]]                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Fluent Python\|Fluent Python]]                                                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Head First Design Patterns\|Head First Design Patterns]]                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Homo Deus\|Homo Deus]]                                                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Fundamentals of Physics\|Fundamentals of Physics]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Influence et manipulation\|Influence et manipulation]]                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Introduction to Algorithms\|Introduction to Algorithms]]                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Keys to Drawing\|Keys to Drawing]]                                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/L'art du trading\|L'art du trading]]                                                                             | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/L'Univers à portée de main\|L'Univers à portée de main]]                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/La lecture rapide\|La lecture rapide]]                                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/La Bourse pour les nuls\|La Bourse pour les nuls]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/La semaine de 4 heures\|La semaine de 4 heures]]                                                                 | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Labyrinthes\|Labyrinthes]]                                                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion\|Le Manuel de Pilotage d'Avion]]                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Mastering Machine Learning with scikit-learn\|Mastering Machine Learning with scikit-learn]]                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Mécanique Quantique - Tome 1\|Mécanique Quantique - Tome 1]]                                                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Naked Forex\|Naked Forex]]                                                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Nous ne sommes pas ce que la science à dit de nous\|Nous ne sommes pas ce que la science à dit de nous]]         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Parallel Worlds\|Parallel Worlds]]                                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Physics of the Impossible\|Physics of the Impossible]]                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Réussir son référencement web - Edition 2020-2021\|Réussir son référencement web - Edition 2020-2021]]           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Père riche, père pauvre\|Père riche, père pauvre]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Sapiens\|Sapiens]]                                                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Steve Jobs\|Steve Jobs]]                                                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Basics of Bitcoins and Blockchains\|The Basics of Bitcoins and Blockchains]]                                 | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Elliott Wave Principle\|The Elliott Wave Principle]]                                                         | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Extended Phenotype\|The Extended Phenotype]]                                                                 | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Phase\|The Phase]]                                                                                           | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Miracle Morning\|The Miracle Morning]]                                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Old Man and the Sea\|The Old Man and the Sea]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Principles of Beautiful Web Design\|The Principles of Beautiful Web Design]]                                 | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/The Selfish Gene\|The Selfish Gene]]                                                                             | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Thinking, Fast and Slow\|Thinking, Fast and Slow]]                                                               | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Tout le monde n'a pas eu la chance de rater ses études\|Tout le monde n'a pas eu la chance de rater ses études]] | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Train d'enfer pour Ange rouge\|Train d'enfer pour Ange rouge]]                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Trading in the Zone\|Trading in the Zone]]                                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Unlimited Memory\|Unlimited Memory]]                                                                             | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Visual Guide to Elliott Wave Trading\|Visual Guide to Elliott Wave Trading]]                                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Ultimate Guide to Google AdWords\|Ultimate Guide to Google AdWords]]                                             | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Why Evolution Is True\|Why Evolution Is True]]                                                                   | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Why We Sleep\|Why We Sleep]]                                                                                     | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Goodreads/Wonders of the Solar System\|Wonders of the Solar System]]                                                       | #wiki/references/goodreads      |
-| [[10 Wiki/14 References/Zotero/@cranky_cryptoMathChecksOut2022\|@cranky_cryptoMathChecksOut2022]]                                                  | #wiki/references/zotero/online  |
-| [[10 Wiki/14 References/Zotero/@hackerDashboardSimpleOrganization2022\|@hackerDashboardSimpleOrganization2022]]                                    | #wiki/references/zotero/online  |
-| [[10 Wiki/14 References/Zotero/@horikawaNeuralDecodingVisual2013\|@horikawaNeuralDecodingVisual2013]]                                              | #wiki/references/zotero/article |
-| [[10 Wiki/14 References/Zotero/@LabyrinthDigitalGardens2022\|@LabyrinthDigitalGardens2022]]                                                        | #wiki/references/zotero/online  |
-| [[10 Wiki/14 References/Zotero/@red31415WhereCanFind2023\|@red31415WhereCanFind2023]]                                                              | #wiki/references/zotero/online  |
-| [[10 Wiki/14 References/Zotero/@PlantingYourDigital\|@PlantingYourDigital]]                                                                        | #wiki/references/zotero/online  |
-| [[10 Wiki/14 References/Zotero/@rldkyce2022Recap5612023\|@rldkyce2022Recap5612023]]                                                                | #wiki/references/zotero/online  |
+| File                                                                                                               | Type                            |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| [[10 Wiki/14 References/OMDb/@Avatar - 2009\|@Avatar - 2009]]                                                   | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Forrest Gump - 1994\|@Forrest Gump - 1994]]                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Inception - 2010\|@Inception - 2010]]                                             | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Interstellar - 2014\|@Interstellar - 2014]]                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Se7en - 1995\|@Se7en - 1995]]                                                     | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Prestige - 2006\|@The Prestige - 2006]]                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Point Break - 1991\|@Point Break - 1991]]                                         | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Wolf of Wall Street - 2013\|@The Wolf of Wall Street - 2013]]                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Top Gun - 1986\|@Top Gun - 1986]]                                                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Black Phone - 2021\|@The Black Phone - 2021]]                                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Matrix - 1999\|@The Matrix - 1999]]                                           | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Smile - 2022\|@Smile - 2022]]                                                     | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Tenet - 2020\|@Tenet - 2020]]                                                     | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@12 Monkeys - 1995\|@12 Monkeys - 1995]]                                           | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Dune - 2021\|@Dune - 2021]]                                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Prey - 2022\|@Prey - 2022]]                                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Cabbage Soup - 1981\|@The Cabbage Soup - 1981]]                               | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Nope - 2022\|@Nope - 2022]]                                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Licorice Pizza - 2021\|@Licorice Pizza - 2021]]                                   | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Watcher - 2022\|@The Watcher - 2022]]                                         | #wiki/references/omdb/series    |
+| [[10 Wiki/14 References/OMDb/@Wednesday - 2022\|@Wednesday - 2022]]                                             | #wiki/references/omdb/series    |
+| [[10 Wiki/14 References/OMDb/@You - 2018\|@You - 2018]]                                                         | #wiki/references/omdb/series    |
+| [[10 Wiki/14 References/OMDb/@Lucifer - 2016–2021\|@Lucifer - 2016–2021]]                                       | #wiki/references/omdb/series    |
+| [[10 Wiki/14 References/OMDb/@Avatar - The Way of Water - 2022\|@Avatar - The Way of Water - 2022]]             | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Black Patner - Wakanda Forever\|@Black Patner - Wakanda Forever]]                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Top Gun - Maverick - 2022\|@Top Gun - Maverick - 2022]]                           | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@Titanic - 1997\|@Titanic - 1997]]                                                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Exorcist - 1973\|@The Exorcist - 1973]]                                       | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Conjuring - 2013\|@The Conjuring - 2013]]                                     | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Conjuring 2 - 2016\|@The Conjuring 2 - 2016]]                                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/OMDb/@The Nun - 2018\|@The Nun - 2018]]                                                 | #wiki/references/omdb/movie     |
+| [[10 Wiki/14 References/Zotero/@cranky_cryptoMathChecksOut2022\|@cranky_cryptoMathChecksOut2022]]               | #wiki/references/zotero/online  |
+| [[10 Wiki/14 References/Zotero/@horikawaNeuralDecodingVisual2013\|@horikawaNeuralDecodingVisual2013]]           | #wiki/references/zotero/article |
+| [[10 Wiki/14 References/Zotero/@hackerDashboardSimpleOrganization2022\|@hackerDashboardSimpleOrganization2022]] | #wiki/references/zotero/online  |
+| [[10 Wiki/14 References/Zotero/@LabyrinthDigitalGardens2022\|@LabyrinthDigitalGardens2022]]                     | #wiki/references/zotero/online  |
+| [[10 Wiki/14 References/Zotero/@PlantingYourDigital\|@PlantingYourDigital]]                                     | #wiki/references/zotero/online  |
+| [[10 Wiki/14 References/Zotero/@red31415WhereCanFind2023\|@red31415WhereCanFind2023]]                           | #wiki/references/zotero/online  |
+| [[10 Wiki/14 References/Zotero/@rldkyce2022Recap5612023\|@rldkyce2022Recap5612023]]                             | #wiki/references/zotero/online  |
 
 
 
