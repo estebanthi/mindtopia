@@ -22,6 +22,10 @@ To calculate our position sizing, we can use spreadsheets. There's one in the Re
 
 I've customized it to make it suit my needs for [[100 Zettelkasten/Forex\|Forex]]. Here's the link: [[Risk Management Calculator and Equity Curve Generator.xlsx]] (local) or [spreadsheet](https://docs.google.com/spreadsheets/d/1OuE8PpV2B7AAjv_Nog4ROXXooSBa2v76/edit?usp=share_link&ouid=104435879711461895656&rtpof=true&sd=true) (online)
 
+## Related Notes
+
+
+
 ###### META
 Status:: #wiki/references/zotero/online
 Related:: [[100 Zettelkasten/120 MOC/Trading\|Trading]]
