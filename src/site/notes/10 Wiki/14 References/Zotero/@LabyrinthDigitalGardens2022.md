@@ -10,6 +10,9 @@ A list of nice [[Digital Garden\|Digital Gardens]]. Nearly all are made with [[O
 - [mnml’s vault](https://publish.obsidian.md/manuel)
 - [Nicole van der Hoeven](https://notes.nicolevanderhoeven.com/)
 
+## Related Notes
+
+
 
 
 ###### META
