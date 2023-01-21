@@ -20,6 +20,8 @@ Some brain zones showed better performance with different images:
 > [!QUOTE]
 > The FFA showed better performance with human synsets, whereas the PPA showed better performance with scene synsets.
 
+## Related Notes
+
 
 
 
