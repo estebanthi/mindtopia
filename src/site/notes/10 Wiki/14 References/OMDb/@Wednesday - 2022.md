@@ -17,7 +17,7 @@ Related::
 
 Link:: https://www.imdb.com/title/tt13443470/
 Author:: 
-Year:: 2022–
+Year:: 2022
 
 Priority:: 
 
