@@ -23,6 +23,9 @@ In short:
 
 We have to identify patterns.
 
+## Related Notes
+
+
 
 
 ###### META
