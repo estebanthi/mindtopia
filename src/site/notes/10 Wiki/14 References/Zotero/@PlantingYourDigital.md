@@ -19,6 +19,9 @@ Digital gardening can be seen as a variation of [[Blogging\|Blogging]] that is:
 -   Start sharing ideas and interacting often
 -   Turn your garden into a beacon for others
 
+## Related Notes
+
+
 
 
 ###### META
