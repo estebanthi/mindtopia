@@ -13,7 +13,8 @@
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-17
-- [ ] 🎹 Piano #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21
+- [ ] 🎹 Piano #tasks/habit 🔽 🔁 every day when done 📅 2023-01-22
+- [x] 🎹 Piano #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21 ✅ 2023-01-21
 - [x] 🎹 Piano #tasks/habit 🔽 🔁 every day when done 📅 2023-01-20 ✅ 2023-01-20
 - [x] 🎹 Piano #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
 - [x] 🎹 Piano #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
@@ -28,7 +29,8 @@
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-19
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-17
-- [ ] 🏃 Sport #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21
+- [ ] 🏃 Sport #tasks/habit 🔽 🔁 every day when done 📅 2023-01-22
+- [x] 🏃 Sport #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21 ✅ 2023-01-21
 - [x] 🏃 Sport #tasks/habit 🔽 🔁 every day when done 📅 2023-01-19 ✅ 2023-01-20
 - [x] 🏃 Sport #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
 - [x] 🏃 Sport #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-17
@@ -38,7 +40,8 @@
 - [x] 🎴 Anki #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
 - [x] 🎴 Anki #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
 - [x] 🎴 Anki #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-17
-- [ ] 🚿 Cold shower #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21
+- [ ] 🚿 Cold shower #tasks/habit 🔽 🔁 every day when done 📅 2023-01-22
+- [x] 🚿 Cold shower #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21 ✅ 2023-01-21
 - [x] 🚿 Cold shower #tasks/habit 🔽 🔁 every day when done 📅 2023-01-20 ✅ 2023-01-20
 - [x] 🚿 Cold shower #tasks/habit 🔽 🔁 every day when done 📅 2023-01-19 ✅ 2023-01-19
 - [x] 🚿 Cold shower #tasks/habit 🔽 🔁 every day ⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
