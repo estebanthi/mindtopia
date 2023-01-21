@@ -10,8 +10,8 @@ Currently, most of my time is spent at school as I'm still a student.
 ## Projects
 - [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]]
 - [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]
-- [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]]
 - [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
+- [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]]
 - [[20 Me/22 Action/Projects/My Portfolio\|My Portfolio]]
 - [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]
 - [[20 Me/22 Action/Projects/Play Etude Op. 10 No. 12\|Play Etude Op. 10 No. 12]]
@@ -28,13 +28,8 @@ Currently, most of my time is spent at school as I'm still a student.
 
 
 ## To Learn
-| File                                                                                                                | Type                       |
-| ------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century\|21 Lessons for the 21st Century]]             | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Goodreads/A Brief History of Time\|A Brief History of Time]]                             | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Goodreads/Atomic Habits\|Atomic Habits]]                                                 | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Goodreads/Automate the Boring Stuff with Python\|Automate the Boring Stuff with Python]] | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Goodreads/Beyond Good and Evil\|Beyond Good and Evil]]                                   | #wiki/references/goodreads |
+| File | Type |
+| ---- | ---- |
 
 
 ## Current [[Zettelkasten\|ZK]] Work
