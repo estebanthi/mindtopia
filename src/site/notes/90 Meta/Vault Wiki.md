@@ -67,6 +67,7 @@
 🏃 -> **Running**
 🥊 -> **MMA/Punching Bag**
 💪 -> **Bodybuilding**
+⭐ -> **Other**
 
 ## Dream Log
 💤 -> **No dreams**
