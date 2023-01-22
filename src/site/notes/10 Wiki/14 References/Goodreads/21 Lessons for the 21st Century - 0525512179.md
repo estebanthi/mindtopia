@@ -19,7 +19,7 @@ Link:: https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-cent
 Author:: [[Yuval Noah Harari\|Yuval Noah Harari]]
 Year:: 2018-01-01
 
-Priority:: 
+Priority:: 2
 
 Consumed:: 
 Reconsume:: 
