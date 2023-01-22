@@ -19,7 +19,7 @@ Link::
 Author:: [[David    Allen\|David    Allen]]
 Year:: 2001-01-01
 
-Priority:: 
+Priority:: 3
 
 Consumed:: 
 Reconsume:: 
