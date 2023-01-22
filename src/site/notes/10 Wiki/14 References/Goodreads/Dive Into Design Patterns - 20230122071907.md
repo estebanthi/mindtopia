@@ -13,7 +13,7 @@
 
 ###### META
 Status:: #wiki/references/goodreads
-Related:: [[200 Media/Design Patterns\|Design Patterns]]
+Related:: [[100 Zettelkasten/Design Patterns\|Design Patterns]]
 
 Link:: https://www.goodreads.com/book/show/43125355-dive-into-design-patterns
 Author:: [[Alexander Shvets\|Alexander Shvets]]
