@@ -19,7 +19,7 @@ Link::
 Author:: [[Grady Hendrix\|Grady Hendrix]]
 Year:: 2023-01-01
 
-Priority:: 
+Priority:: 3
 
 Consumed:: 
 Reconsume:: 
