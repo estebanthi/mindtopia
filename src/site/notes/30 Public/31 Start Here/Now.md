@@ -11,11 +11,11 @@ Currently, most of my time is spent at school as I'm still a student.
 - [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]]
 - [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]
 - [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]]
-- [[20 Me/22 Action/Projects/My Portfolio\|My Portfolio]]
 - [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
 - [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]
-- [[20 Me/22 Action/Projects/Play Etude Op. 10 No. 12\|Play Etude Op. 10 No. 12]]
+- [[20 Me/22 Action/Projects/My Portfolio\|My Portfolio]]
 - [[20 Me/22 Action/Projects/Play Liebestraum No. 3\|Play Liebestraum No. 3]]
+- [[20 Me/22 Action/Projects/Play Etude Op. 10 No. 12\|Play Etude Op. 10 No. 12]]
 - [[20 Me/22 Action/Projects/Run Paris Marathon\|Run Paris Marathon]]
 - [[20 Me/22 Action/Projects/TelegramCloudFS\|TelegramCloudFS]]
 
@@ -29,8 +29,13 @@ Currently, most of my time is spent at school as I'm still a student.
 
 
 ## To Learn
-| File | Type |
-| ---- | ---- |
+| File                                                                                                                                                              | Type                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]]                                 | #wiki/references/goodreads |
+| [[10 Wiki/14 References/Goodreads/Black Holes and Baby Universes and Other Essays - 0553374117\|Black Holes and Baby Universes and Other Essays - 0553374117]] | #wiki/references/goodreads |
+| [[10 Wiki/14 References/Goodreads/Code - 0735611319\|Code - 0735611319]]                                                                                       | #wiki/references/goodreads |
+| [[10 Wiki/14 References/Goodreads/Curious - 20230122082346\|Curious - 20230122082346]]                                                                         | #wiki/references/goodreads |
+| [[10 Wiki/14 References/Goodreads/Dreams of Awakening - 1781802025\|Dreams of Awakening - 1781802025]]                                                         | #wiki/references/goodreads |
 
 
 ## Current [[Zettelkasten\|ZK]] Work
