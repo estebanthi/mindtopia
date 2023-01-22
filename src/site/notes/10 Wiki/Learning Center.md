@@ -9,15 +9,15 @@ I use this note to keep track of the things I need to read/watch/listen. It allo
 ## Watch list
 | File                                                                                                                                                              | Type                       | Priority |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | -------- |
-| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]]                                 | #wiki/references/goodreads | \-       |
+| [[10 Wiki/14 References/Goodreads/Getting Things Done - 0142000280\|Getting Things Done - 0142000280]]                                                         | #wiki/references/goodreads | 3        |
+| [[10 Wiki/14 References/Goodreads/How to Sell a Haunted House - 0593201264\|How to Sell a Haunted House - 0593201264]]                                         | #wiki/references/goodreads | 3        |
+| [[10 Wiki/14 References/Goodreads/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]]                                 | #wiki/references/goodreads | 2        |
 | [[10 Wiki/14 References/Goodreads/Black Holes and Baby Universes and Other Essays - 0553374117\|Black Holes and Baby Universes and Other Essays - 0553374117]] | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Code - 0735611319\|Code - 0735611319]]                                                                                       | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Curious - 20230122082346\|Curious - 20230122082346]]                                                                         | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Dreams of Awakening - 1781802025\|Dreams of Awakening - 1781802025]]                                                         | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Fundamentals of Physics - 20230122082346\|Fundamentals of Physics - 20230122082346]]                                         | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/Getting Things Done - 0142000280\|Getting Things Done - 0142000280]]                                                         | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Homo Deus - 20230122082346\|Homo Deus - 20230122082346]]                                                                     | #wiki/references/goodreads | \-       |
-| [[10 Wiki/14 References/Goodreads/How to Sell a Haunted House - 0593201264\|How to Sell a Haunted House - 0593201264]]                                         | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Hyperspace - 0192861891\|Hyperspace - 0192861891]]                                                                           | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Introduction to Algorithms - 0262032937\|Introduction to Algorithms - 0262032937]]                                           | #wiki/references/goodreads | \-       |
 | [[10 Wiki/14 References/Goodreads/Keys to Drawing - 0891343377\|Keys to Drawing - 0891343377]]                                                                 | #wiki/references/goodreads | \-       |
