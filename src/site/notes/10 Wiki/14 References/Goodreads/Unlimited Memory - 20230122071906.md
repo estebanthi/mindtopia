@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/unlimited-memory-20230122071906/","title":"Unlimited Memory"}
+aliases: Unlimited Memory
+dg-publish: true
+author: Kevin Horsley
+title: Unlimited Memory
+subtitle: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive
+series: Mental Mastery, #1
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428170961l/20958539.jpg
+rating: 7.5
+avgRating: 4.01
+dateAdded: 2022-11-27
+dateRead: 
+datePublished: 2014-01-01
+shelves: personal-dev, brain, memory
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Unlimited Memory
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428170961l/20958539.jpg)
@@ -27,6 +40,7 @@ I think this book is a must for the students, or more generally for everyone wan
 
 
 ## Related Notes
+- [[10 Wiki/12 Notes/4 Cs - 20230122093529\|4 Cs - 20230122093529]]
 
 
 
