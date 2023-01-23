@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/the-elliott-wave-principle-0932750052/","title":"The Elliott Wave Principle"}
+aliases: The Elliott Wave Principle
+dg-publish: true
+author: A.J. Frost
+title: The Elliott Wave Principle
+subtitle: Key to Stock Market Profits
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377032114l/1334568.jpg
+rating: 7
+avgRating: 3.86
+dateAdded: 2022-08-23
+dateRead: 
+datePublished: 1978-01-01
+shelves: trading
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # The Elliott Wave Principle
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377032114l/1334568.jpg)
