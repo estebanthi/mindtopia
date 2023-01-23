@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/the-extended-phenotype-0192880519/","title":"The Extended Phenotype"}
+aliases: The Extended Phenotype
+dg-publish: true
+author: Richard Dawkins
+title: The Extended Phenotype
+subtitle: The Long Reach of the Gene
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336065913l/61538.jpg
+rating: 0
+avgRating: 4.11
+dateAdded: 2022-12-13
+dateRead: 
+datePublished: 1982-01-01
+shelves: to-read
+created: 20230122082346
+modified: 20230122082410
 ---
-
 # The Extended Phenotype
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336065913l/61538.jpg)
