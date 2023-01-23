@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/dreams-of-awakening-1781802025/","title":"Dreams of Awakening"}
+aliases: Dreams of Awakening
+dg-publish: true
+author: Charlie Morley
+title: Dreams of Awakening
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381297507l/18654754.jpg
+rating: 0
+avgRating: 4.16
+dateAdded: 2022-11-14
+dateRead: 
+datePublished: 2013-01-01
+shelves: to-read
+created: 20230122082346
+modified: 20230122082410
 ---
-
 # Dreams of Awakening
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381297507l/18654754.jpg)
