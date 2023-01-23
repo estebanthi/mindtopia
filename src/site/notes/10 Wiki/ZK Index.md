@@ -8,4 +8,10 @@ This page references the [[10 Wiki/Status/Plantation - 20230114032002\|Plantatio
 
 Before diving into the wiki, you should also check [[20 Me/24 Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]] to understand how this wiki works and what are [[10 Wiki/Status/Plantation - 20230114032002\|Plantations]].
 
+## Plantations
+- [[10 Wiki/13 Plantations/Aerodrome Traffic - 20230123021751\|Aerodrome Traffic - 20230123021751]]
 
+
+## Notes without Plantations
+- [[10 Wiki/12 Notes/Ground to Air Signals - 20230123012741\|Ground to Air Signals - 20230123012741]]
+```
