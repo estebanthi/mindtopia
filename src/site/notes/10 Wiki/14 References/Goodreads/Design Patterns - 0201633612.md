@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/design-patterns-0201633612/","title":"Design Patterns"}
+aliases: Design Patterns
+dg-publish: true
+author: Erich Gamma
+title: Design Patterns
+subtitle: Elements of Reusable Object-Oriented Software
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348027904l/85009.jpg
+rating: 6.5
+avgRating: 4.19
+dateAdded: 2022-08-25
+dateRead: 
+datePublished: 1994-01-01
+shelves: programming
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Design Patterns
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348027904l/85009.jpg)
@@ -29,13 +42,14 @@ I think every programmer who has never heard about design patterns should read i
 
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Adapter - 20230123120422\|Adapter - 20230123120422]]
 
 
 
 
 ###### META
 Status:: #wiki/references/goodreads
-Related:: [[100 Zettelkasten/Design Patterns\|Design Patterns]]
+Related:: [[10 Wiki/14 References/Goodreads/Design Patterns - 0201633612\|Design Patterns - 0201633612.md]]
 
 Link:: https://www.goodreads.com/book/show/85009.Design_Patterns
 Author:: [[Erich Gamma\|Erich Gamma]]
