@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/the-principles-of-beautiful-web-design-0975841963/","title":"The Principles of Beautiful Web Design"}
+aliases: The Principles of Beautiful Web Design
+dg-publish: true
+author: Jason Beaird
+title: The Principles of Beautiful Web Design
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436377686l/258823._SX318_.jpg
+rating: 6
+avgRating: 3.92
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2007-01-01
+shelves: web
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # The Principles of Beautiful Web Design
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436377686l/258823._SX318_.jpg)
