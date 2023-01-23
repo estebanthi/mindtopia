@@ -166,6 +166,7 @@ I use this note to keep track of the things I need to read/watch/listen. It allo
 | [[10 Wiki/14 References/Zotero/@PlantingYourDigital\|@PlantingYourDigital]]                                                                                                          | #wiki/references/zotero/online  | \-     |
 | [[10 Wiki/14 References/Zotero/@red31415WhereCanFind2023\|@red31415WhereCanFind2023]]                                                                                                | #wiki/references/zotero/online  | \-     |
 | [[10 Wiki/14 References/Zotero/@prototype7185RiskManagementDeposit2023\|@prototype7185RiskManagementDeposit2023]]                                                                    | #wiki/references/zotero/misc    | \-     |
+| [[10 Wiki/14 References/Zotero/@due-alternative1541TradingRulesEspecially2023\|@due-alternative1541TradingRulesEspecially2023]]                                                      | #wiki/references/zotero/misc    | \-     |
 
 
 
