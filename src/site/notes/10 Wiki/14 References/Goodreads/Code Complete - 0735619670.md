@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/code-complete-0735619670/","title":"Code Complete"}
+aliases: Code Complete
+dg-publish: true
+author: Steve McConnell
+title: Code Complete
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg
+rating: 7
+avgRating: 4.3
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 1993-01-01
+shelves: programming
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Code Complete
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845.jpg)
