@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/nous-ne-sommes-pas-ce-que-la-science-a-dit-de-nous/","title":"Nous ne sommes pas ce que la science à dit de nous"}
+aliases: Nous ne sommes pas ce que la science à dit de nous
+dg-publish: true
+author: Gregg Braden
+title: Nous ne sommes pas ce que la science à dit de nous
+subtitle: "D'une évolution subie à une transformation choisie"
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519494592l/38736837._SY475_.jpg
+rating: 7
+avgRating: 3.33
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2017-01-01
+shelves: personal-dev
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Nous Ne Sommes Pas Ce Que La Science À Dit De Nous
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519494592l/38736837._SY475_.jpg)
