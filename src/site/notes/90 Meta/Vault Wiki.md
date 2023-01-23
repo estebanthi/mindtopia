@@ -77,3 +77,37 @@
 ## References
 Priority -> From 1 (low) to 3 (high)
 Rating -> From 1 (don't liked) to 10 (loved)
+
+## Tags
+
+wiki/notes/embryo
+wiki/notes/germinating
+wiki/notes/mature
+wiki/notes/rejuvenated
+wiki/notes/withered
+wiki/notes/plantation
+
+wiki/references/goodreads
+wiki/references/omdb/...
+wiki/references/zotero/...
+wiki/references/...
+
+meta/need-work
+meta/working-on
+
+action/milestone
+action/project
+action/goal
+
+tasks/habit
+tasks/pending
+tasks/...
+
+routine
+workflow
+idea
+contact
+
+dashboard
+hub
+index
