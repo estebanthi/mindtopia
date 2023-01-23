@@ -12,16 +12,16 @@ Currently, most of my time is spent at school as I'm still a student.
 - [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]
 - [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]]
 - [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
-- [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]
 - [[20 Me/22 Action/Projects/My Portfolio\|My Portfolio]]
-- [[20 Me/22 Action/Projects/Play Liebestraum No. 3\|Play Liebestraum No. 3]]
+- [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]
 - [[20 Me/22 Action/Projects/Play Etude Op. 10 No. 12\|Play Etude Op. 10 No. 12]]
+- [[20 Me/22 Action/Projects/TeleCloudFS\|TeleCloudFS]]
+- [[20 Me/22 Action/Projects/Play Liebestraum No. 3\|Play Liebestraum No. 3]]
 - [[20 Me/22 Action/Projects/Run Paris Marathon\|Run Paris Marathon]]
-- [[20 Me/22 Action/Projects/TelegramCloudFS\|TelegramCloudFS]]
 
 
 ## Latest Logs
-- [[20 Me/21 Logs/2023/01/2023-01-21\|2023-01-21]]
+- [[20 Me/21 Logs/2023/01/2023-01-22\|2023-01-22]]
 - [[20 Me/21 Logs/2023/01/2023-01-20\|2023-01-20]]
 - [[20 Me/21 Logs/2023/01/2023-01-19\|2023-01-19]]
 - [[20 Me/21 Logs/2023/01/2023-01-18\|2023-01-18]]
