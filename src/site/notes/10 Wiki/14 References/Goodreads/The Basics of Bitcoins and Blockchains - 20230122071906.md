@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/the-basics-of-bitcoins-and-blockchains-20230122071906/","title":"The Basics of Bitcoins and Blockchains"}
+aliases: The Basics of Bitcoins and Blockchains
+dg-publish: true
+author: Antony Lewis
+title: The Basics of Bitcoins and Blockchains
+subtitle: An Introduction to Cryptocurrencies and the Technology that Powers Them
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529163443l/40541157._SY475_.jpg
+rating: 7.5
+avgRating: 4.12
+dateAdded: 2022-09-21
+dateRead: 
+datePublished: 2018-01-01
+shelves: cryptocurrencies
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # The Basics of Bitcoins and Blockchains
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529163443l/40541157._SY475_.jpg)
