@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/building-winning-algorithmic-trading-systems/","title":"Building Winning Algorithmic Trading Systems"}
+aliases: Building Winning Algorithmic Trading Systems
+dg-publish: true
+author: Kevin J. Davey
+title: Building Winning Algorithmic Trading Systems
+subtitle: "A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading)"
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433273356l/22675886._SX318_.jpg
+rating: 9
+avgRating: 4.12
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2014-01-01
+shelves: programming, trading, investment
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Building Winning Algorithmic Trading Systems
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433273356l/22675886._SX318_.jpg)
