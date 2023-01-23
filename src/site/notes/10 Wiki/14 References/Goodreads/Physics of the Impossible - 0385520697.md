@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/physics-of-the-impossible-0385520697/","title":"Physics of the Impossible"}
+aliases: Physics of the Impossible
+dg-publish: true
+author: Michio Kaku
+title: Physics of the Impossible
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469147l/1168341.jpg
+rating: 7
+avgRating: 4.08
+dateAdded: 2022-12-18
+dateRead: 
+datePublished: 2008-01-01
+shelves: cosmology, mecanique-quantique, science
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Physics of the Impossible
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469147l/1168341.jpg)
