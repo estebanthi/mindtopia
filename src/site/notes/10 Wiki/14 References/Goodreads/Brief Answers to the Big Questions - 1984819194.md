@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/brief-answers-to-the-big-questions-1984819194/","title":"Brief Answers to the Big Questions"}
+aliases: Brief Answers to the Big Questions
+dg-publish: true
+author: Stephen Hawking
+title: Brief Answers to the Big Questions
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536862019l/40277241.jpg
+rating: 8
+avgRating: 4.29
+dateAdded: 2022-12-08
+dateRead: 
+datePublished: 2018-01-01
+shelves: cosmology, science, mecanique-quantique
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Brief Answers to the Big Questions
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536862019l/40277241.jpg)
