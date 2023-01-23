@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/the-old-man-and-the-sea-0684830493/","title":"The Old Man and the Sea"}
+aliases: The Old Man and the Sea
+dg-publish: true
+author: Ernest Hemingway
+title: The Old Man and the Sea
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SY475_.jpg
+rating: 7
+avgRating: 3.8
+dateAdded: 2022-12-04
+dateRead: 
+datePublished: 1952-01-01
+shelves: fiction
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # The Old Man and the Sea
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SY475_.jpg)
