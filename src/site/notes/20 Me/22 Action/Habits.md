@@ -8,7 +8,8 @@
 
 
 ###### TASKS
-- [ ] 📕 Reading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-23
+- [ ] 📕 Reading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-24
+- [x] 📕 Reading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-23 ✅ 2023-01-23
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21 ✅ 2023-01-22
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-20 ✅ 2023-01-20
 - [x] 📕 Reading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-19 📅 2023-01-19 ✅ 2023-01-19
@@ -25,7 +26,8 @@
 - [x] 📅 Plan next day #tasks/habit 🔽 🔁 every day when done 📅 2023-01-20 ✅ 2023-01-20
 - [x] 📅 Plan next day #tasks/habit 🔽 🔁 every day when done 📅 2023-01-19 ✅ 2023-01-19
 - [x] 📅 Plan next day #tasks/habit 🔽 🔁 every day when done⏳ 2023-01-18 📅 2023-01-18 ✅ 2023-01-18
-- [ ] 💲 Trading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21
+- [ ] 💲 Trading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-24
+- [x] 💲 Trading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-21 ✅ 2023-01-23
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-20 ✅ 2023-01-20
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day when done 📅 2023-01-17 ✅ 2023-01-19
 - [x] 💲 Trading #tasks/habit 🔽 🔁 every day ⏳ 2023-01-17 📅 2023-01-17 ✅ 2023-01-19
