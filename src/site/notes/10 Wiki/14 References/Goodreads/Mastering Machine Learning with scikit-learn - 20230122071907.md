@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/mastering-machine-learning-with-scikit-learn-20230122071907/","title":"Mastering Machine Learning with scikit-learn"}
+aliases: Mastering Machine Learning with scikit-learn
+dg-publish: true
+author: Gavin Hackeling
+title: Mastering Machine Learning with scikit-learn
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419055057l/23828418.jpg
+rating: 7.5
+avgRating: 3.97
+dateAdded: 2022-08-17
+dateRead: 2022-08-17
+datePublished: 2014-01-01
+shelves: programming, machine-learning
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Mastering Machine Learning with Scikit-learn
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419055057l/23828418.jpg)
