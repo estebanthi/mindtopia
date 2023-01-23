@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/getting-things-done-0142000280/","title":"Getting Things Done"}
+aliases: Getting Things Done
+dg-publish: true
+author: David    Allen
+title: Getting Things Done
+subtitle: The Art of Stress-Free Productivity
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633.jpg
+rating: 0
+avgRating: 4
+dateAdded: 2023-01-21
+dateRead: 
+datePublished: 2001-01-01
+shelves: to-read
+created: 20230122082346
+modified: 20230122082410
 ---
-
 # Getting Things Done
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312474060l/1633.jpg)
