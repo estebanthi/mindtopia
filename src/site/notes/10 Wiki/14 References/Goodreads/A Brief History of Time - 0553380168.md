@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/a-brief-history-of-time-0553380168/","title":"A Brief History of Time"}
+aliases: A Brief History of Time
+dg-publish: true
+author: Stephen Hawking
+title: A Brief History of Time
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869.jpg
+rating: 9
+avgRating: 4.21
+dateAdded: 2022-10-04
+dateRead: 
+datePublished: 2005-01-01
+shelves: science, mecanique-quantique
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # A Brief History of Time
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869.jpg)
