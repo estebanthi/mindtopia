@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/drawing-for-the-absolute-beginner-20230122071907/","title":"Drawing for the Absolute Beginner"}
+aliases: Drawing for the Absolute Beginner
+dg-publish: true
+author: Mark Willenbrink
+title: Drawing for the Absolute Beginner
+subtitle: A Clear & Easy Guide to Successful Drawing (Art for the Absolute Beginner)
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394280418l/11773029.jpg
+rating: 8
+avgRating: 3.91
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2006-01-01
+shelves: drawing
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Drawing for the Absolute Beginner
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394280418l/11773029.jpg)
