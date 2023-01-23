@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/la-semaine-de-4-heures-2744064173/","title":"La semaine de 4 heures"}
+aliases: La semaine de 4 heures
+dg-publish: true
+author: Timothy Ferriss
+title: La semaine de 4 heures
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629844l/8463558.jpg
+rating: 6
+avgRating: 3.71
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2007-01-01
+shelves: personal-dev
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # La Semaine De 4 Heures
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327629844l/8463558.jpg)
