@@ -12,6 +12,6 @@
 Status:: #action/milestone 
 Related:: 
 
-Completed:: 
+Completed:: true
 Deadline:: 
 Project:: [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]
