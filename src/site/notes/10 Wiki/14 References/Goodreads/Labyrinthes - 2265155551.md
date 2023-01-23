@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/labyrinthes-2265155551/","title":"Labyrinthes"}
+aliases: Labyrinthes
+dg-publish: true
+author: Franck Thilliez
+title: Labyrinthes
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649273730l/60763382._SX318_.jpg
+rating: 10
+avgRating: 4.3
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 
+shelves: thriller, fiction, favorites
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # Labyrinthes
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649273730l/60763382._SX318_.jpg)
