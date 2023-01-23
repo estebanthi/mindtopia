@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/thinking-fast-and-slow-0374275637/","title":"Thinking, Fast and Slow"}
+aliases: Thinking, Fast and Slow
+dg-publish: true
+author: Daniel Kahneman
+title: Thinking, Fast and Slow
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377.jpg
+rating: 7
+avgRating: 4.17
+dateAdded: 2022-11-14
+dateRead: 
+datePublished: 2011-01-01
+shelves: personal-dev, brain
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Thinking, Fast and Slow
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377.jpg)
