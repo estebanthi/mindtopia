@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/wonders-of-the-solar-system-0007386907/","title":"Wonders of the Solar System"}
+aliases: Wonders of the Solar System
+dg-publish: true
+author: Brian Cox
+title: Wonders of the Solar System
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327345392l/9562056.jpg
+rating: 8
+avgRating: 4.37
+dateAdded: 2022-12-04
+dateRead: 
+datePublished: 2010-01-01
+shelves: astronomy, science
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Wonders of the Solar System
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327345392l/9562056.jpg)
