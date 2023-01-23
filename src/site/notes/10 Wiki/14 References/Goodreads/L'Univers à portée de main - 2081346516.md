@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/l-univers-a-portee-de-main-2081346516/","title":"L'Univers à portée de main"}
+aliases: "L'Univers à portée de main"
+dg-publish: true
+author: Christophe Galfard
+title: "L'Univers à portée de main"
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432646081l/25604050._SY475_.jpg
+rating: 9.5
+avgRating: 4.46
+dateAdded: 2022-07-21
+dateRead: 
+datePublished: 2015-01-01
+shelves: science, astronomy, favorites
+created: 20230122071907
+modified: 20230122071942
 ---
-
 # L'Univers À Portée De Main
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432646081l/25604050._SY475_.jpg)
