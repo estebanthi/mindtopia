@@ -13,9 +13,9 @@
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | --------- | ----------------- |
 | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-                                                                          | \-        | \-                |
 | [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]                     | \-                                                                          | \-        | \-                |
-| [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]                   | \-                                                                          | \-        | \-                |
 | [[20 Me/22 Action/Projects/My Portfolio\|My Portfolio]]                               | \-                                                                          | \-        | \-                |
-| [[20 Me/22 Action/Projects/TelegramCloudFS\|TelegramCloudFS]]                         | \-                                                                          | \-        | \-                |
+| [[20 Me/22 Action/Projects/Obsidian Reminders\|Obsidian Reminders]]                   | \-                                                                          | \-        | \-                |
+| [[20 Me/22 Action/Projects/TeleCloudFS\|TeleCloudFS]]                                 | \-                                                                          | \-        | \-                |
 | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]] | \-        | \-                |
 | [[20 Me/22 Action/Projects/Play Liebestraum No. 3\|Play Liebestraum No. 3]]           | \-                                                                          | \-        | February 01, 2023 |
 | [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]] | \-                                                                          | \-        | March 01, 2023    |
