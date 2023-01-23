@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/why-evolution-is-true-0670020532/","title":"Why Evolution Is True"}
+aliases: Why Evolution Is True
+dg-publish: true
+author: Jerry A. Coyne
+title: Why Evolution Is True
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777442l/4005310._SY475_.jpg
+rating: 8.5
+avgRating: 4.17
+dateAdded: 2022-11-23
+dateRead: 
+datePublished: 2008-01-01
+shelves: science, biology
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Why Evolution Is True
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442777442l/4005310._SY475_.jpg)
