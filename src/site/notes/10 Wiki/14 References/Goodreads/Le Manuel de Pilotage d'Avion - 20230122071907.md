@@ -20,13 +20,6 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474189685l/32068877._SX318_.jpg)
 
 ## Related Notes
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Electrical System - 20230123102858\|Aeronautical Electrical System - 20230123102858]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Fuel - 20230123104034\|Aeronautical Fuel - 20230123104034]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Incident - 20230123104922\|Aeronautical Incident - 20230123104922]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Fuel System - 20230123104434\|Aeronautical Fuel System - 20230123104434]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Oil - 20230124053521\|Aeronautical Oil - 20230124053521]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Infringement - 20230123105215\|Aeronautical Infringement - 20230123105215]]
-- [[10 Wiki/11 Wiki Inbox/Aeronautical Lubrification - 20230123105615\|Aeronautical Lubrification - 20230123105615]]
 - [[10 Wiki/12 Notes/4-Stroke Engine - 20230122093820\|4-Stroke Engine - 20230122093820]]
 - [[10 Wiki/12 Notes/Achieving Navigation - 20230122115853\|Achieving Navigation - 20230122115853]]
 - [[10 Wiki/12 Notes/Adiabatic Cooling - 20230123112126\|Adiabatic Cooling - 20230123112126]]
@@ -42,6 +35,22 @@ modified: 20230122071942
 - [[10 Wiki/12 Notes/Ground to Air Signals - 20230123012741\|Ground to Air Signals - 20230123012741]]
 - [[10 Wiki/12 Notes/MEGAR - 20230122114414\|MEGAR - 20230122114414]]
 - [[10 Wiki/12 Notes/Turning Points Checklist - 20230122115157\|Turning Points Checklist - 20230122115157]]
+- [[10 Wiki/12 Notes/Aeronautical Electrical System - 20230123102858\|Aeronautical Electrical System - 20230123102858]]
+- [[10 Wiki/12 Notes/Aeronautical Fuel - 20230123104034\|Aeronautical Fuel - 20230123104034]]
+- [[10 Wiki/12 Notes/Aeronautical Fuel System - 20230123104434\|Aeronautical Fuel System - 20230123104434]]
+- [[10 Wiki/12 Notes/Aeronautical Incident - 20230123104922\|Aeronautical Incident - 20230123104922]]
+- [[10 Wiki/12 Notes/Aeronautical Infringement - 20230123105215\|Aeronautical Infringement - 20230123105215]]
+- [[10 Wiki/12 Notes/Aeronautic Carburettor - 20230124103358\|Aeronautic Carburettor - 20230124103358]]
+- [[10 Wiki/12 Notes/Aeronautical Lubrification - 20230123105615\|Aeronautical Lubrification - 20230123105615]]
+- [[10 Wiki/12 Notes/Aeronautical Oil - 20230124053521\|Aeronautical Oil - 20230124053521]]
+- [[10 Wiki/12 Notes/Aeronautical Pneumatic Circuit - 20230124101652\|Aeronautical Pneumatic Circuit - 20230124101652]]
+- [[10 Wiki/12 Notes/Aeronautical Train - 20230124103040\|Aeronautical Train - 20230124103040]]
+- [[10 Wiki/12 Notes/Aerostat - 20230124103556\|Aerostat - 20230124103556]]
+- [[10 Wiki/12 Notes/Aileron - 20230124103842\|Aileron - 20230124103842]]
+- [[10 Wiki/12 Notes/Air Mass - 20230124104333\|Air Mass - 20230124104333]]
+- [[10 Wiki/12 Notes/Vacuum Pump Pneumatic Circuit - 20230124101838\|Vacuum Pump Pneumatic Circuit - 20230124101838]]
+- [[10 Wiki/12 Notes/Venturi Pneumatic Circuit - 20230124102331\|Venturi Pneumatic Circuit - 20230124102331]]
+- [[10 Wiki/12 Notes/Windsock - 20230124104203\|Windsock - 20230124104203]]
 - [[10 Wiki/13 Plantations/Aerodrome Traffic - 20230123021751\|Aerodrome Traffic - 20230123021751]]
 
 
