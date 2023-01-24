@@ -4,7 +4,7 @@
 
 # Contact Me
 ---
-If you have any questions, inquiries or anything, or just want to get in touch, simply send me an email: contact@esteban-thilliez.com.
+If you have any questions, inquiries or anything, or just want to get in touch, simply send me an email: esteban.thilliez.pro@gmail.com.
 
 You can also find me at many places:
 - [Medium](https://medium.com/@estebanthi)
