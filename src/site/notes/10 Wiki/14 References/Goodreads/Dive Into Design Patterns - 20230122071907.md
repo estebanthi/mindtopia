@@ -20,8 +20,8 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543945452l/43125355._SY475_.jpg)
 
 ## Related Notes
-- [[10 Wiki/12 Notes/Abstract Factory - 20230122113146\|Abstract Factory - 20230122113146]]
 - [[10 Wiki/12 Notes/Adapter - 20230123120422\|Adapter - 20230123120422]]
+- [[10 Wiki/12 Notes/Abstract Factory - 20230122113146\|Abstract Factory - 20230122113146]]
 
 
 
