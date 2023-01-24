@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/beyond-good-and-evil-014044923-x/","title":"Beyond Good and Evil"}
+aliases: Beyond Good and Evil
+dg-publish: true
+author: Friedrich Nietzsche
+title: Beyond Good and Evil
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388607391l/12321.jpg
+rating: 6
+avgRating: 4.04
+dateAdded: 2022-10-14
+dateRead: 
+datePublished: 1886-01-01
+shelves: philosophy
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Beyond Good and Evil
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388607391l/12321.jpg)
