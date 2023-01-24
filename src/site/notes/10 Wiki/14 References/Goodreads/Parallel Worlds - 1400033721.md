@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/parallel-worlds-1400033721/","title":"Parallel Worlds"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/parallel-worlds-1400033721/","title":"Parallel Worlds","tags":["wiki/references/need-work"]}
 ---
 
 # Parallel Worlds
@@ -15,14 +15,14 @@
 Status:: #wiki/references/goodreads
 Related:: 
 
-Link:: 
+Link:: https://www.goodreads.com/book/show/33418.Parallel_Worlds
 Author:: [[Michio Kaku\|Michio Kaku]]
 Year:: 2004-01-01
 
 Priority:: 
 
-Consumed:: 
+Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 8
 Favorite:: 
