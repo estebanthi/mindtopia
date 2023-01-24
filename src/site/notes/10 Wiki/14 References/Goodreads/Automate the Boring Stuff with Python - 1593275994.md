@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/automate-the-boring-stuff-with-python-1593275994/","title":"Automate the Boring Stuff with Python"}
+aliases: Automate the Boring Stuff with Python
+dg-publish: true
+author: Al Sweigart
+title: Automate the Boring Stuff with Python
+subtitle: Practical Programming for Total Beginners
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768948l/22514127.jpg
+rating: 6
+avgRating: 4.31
+dateAdded: 2022-09-29
+dateRead: 
+datePublished: 2014-01-01
+shelves: python, programming
+created: 20230122071906
+modified: 20230122071942
 ---
-
 # Automate the Boring Stuff with Python
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418768948l/22514127.jpg)
