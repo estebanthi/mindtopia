@@ -4,7 +4,7 @@
 
 # GTD
 ---
-[[Get Things Done\|Get Things Done]] is a way to manage tasks. I have my own adaptation of this system.
+[[Getting Things Done\|Getting Things Done]] is a way to manage tasks. I have my own adaptation of this system.
 
 ## Flow
 ```mermaid
