@@ -12,7 +12,7 @@ graph TD;
 	A["Found interesting content 📄"]
 	A -->|"Is a 📗"|B["Add to GoodReads"]
 	A -->|"Is a 🎞️"|C["Add to Letterboxd"]
-	A -->|"📄 Other"|D["Add to 🌧️ Raindrop"]
+	A -->|"📄 Other"|D["Add to Zotero"]
 	B --> E["Sync to the vault"]
 	C --> E
 	D --> E
