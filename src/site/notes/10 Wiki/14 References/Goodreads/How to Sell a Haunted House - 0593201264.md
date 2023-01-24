@@ -1,7 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/how-to-sell-a-haunted-house-0593201264/","title":"How to Sell a Haunted House"}
+aliases: How to Sell a Haunted House
+dg-publish: true
+author: Grady Hendrix
+title: How to Sell a Haunted House
+subtitle: 
+series: 
+cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650818993l/59414094.jpg
+rating: 0
+avgRating: 4.16
+dateAdded: 2023-01-21
+dateRead: 
+datePublished: 2023-01-01
+shelves: to-read
+created: 20230122082346
+modified: 20230122082410
 ---
-
 # How to Sell a Haunted House
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650818993l/59414094.jpg)
