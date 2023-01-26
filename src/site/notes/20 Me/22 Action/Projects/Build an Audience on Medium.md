@@ -30,7 +30,7 @@
 - [x] Write State pattern and schedule for 2023-01-23 🔼 📅 2023-01-23 ✅ 2023-01-23
 - [x] Write Strategy pattern and schedule for 2023-03-30 🔼 📅 2023-01-24 ✅ 2023-01-24
 - [x] Write Template method pattern and schedule for 2023-04-06 🔼 📅 2023-01-24 ✅ 2023-01-24
-- [ ] Write Visitor pattern and schedule for 2023-04-13 🔼 📅 2023-01-25
+- [x] Write Visitor pattern and schedule for 2023-04-13 🔼 📅 2023-01-25 ✅ 2023-01-25
 - [x] Illustrate the Publish Obsidian Vault article 📅 2023-01-20 ✅ 2023-01-20
 
 
