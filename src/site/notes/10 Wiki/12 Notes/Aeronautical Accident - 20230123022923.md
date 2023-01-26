@@ -4,7 +4,7 @@
 
 # Aeronautical Accident
 ---
-It is an accident involving an [[100 Zettelkasten/Aircraft\|Aircraft]]. An accident can be an injury to a person on board or on the ground, a missing aircraft, or damage to an aircraft.
+It is an accident involving an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]]. An accident can be an injury to a person on board or on the ground, a missing aircraft, or damage to an aircraft.
 
 The Minister of Transport deals with sanctions.
 
