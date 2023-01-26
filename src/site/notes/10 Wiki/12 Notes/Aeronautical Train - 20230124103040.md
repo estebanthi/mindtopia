@@ -4,9 +4,9 @@
 
 # Aeronautical Train
 ---
-An aeronautical train is used to move an [[100 Zettelkasten/Aircraft\|Aircraft]] on the ground.
+An aeronautical train is used to move an [[Aircraft\|Aircraft]] on the ground.
 
-A train is composed of tyres supporting 95% of the [[100 Zettelkasten/Aircraft\|Aircraft]]'s weight and providing braking. Tyres contain **air chambers**.
+A train is composed of tyres supporting 95% of the [[Aircraft\|Aircraft]]'s weight and providing braking. Tyres contain **air chambers**.
 The [[Nose Wheel\|Nose Wheel]] provides roll and supports the remaining 5%.
 
 In light aviation, we find 2 types of trains:
