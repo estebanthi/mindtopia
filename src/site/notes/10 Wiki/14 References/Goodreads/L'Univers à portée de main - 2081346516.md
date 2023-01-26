@@ -20,6 +20,7 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432646081l/25604050._SY475_.jpg)
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Alpha Particle - 20230126104711\|Alpha Particle - 20230126104711]]
 
 
 
