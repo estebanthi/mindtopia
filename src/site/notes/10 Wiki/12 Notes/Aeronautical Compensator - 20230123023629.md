@@ -4,7 +4,7 @@
 
 # Aeronautical Compensator
 ---
-When piloting [[100 Zettelkasten/Aircraft\|Aircrafts]], we need compensators. Else, the efforts on the controls are too intense
+When piloting [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircrafts]], we need compensators. Else, the efforts on the controls are too intense
 
 On a light aircraft, we find two types of compensators:
 - [[100 Zettelkasten/Evolution Compensator\|Evolution Compensator]]
