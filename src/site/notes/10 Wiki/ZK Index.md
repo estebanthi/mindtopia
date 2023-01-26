@@ -10,8 +10,15 @@ Before diving into the wiki, you should also check [[20 Me/24 Workflows/My Zette
 
 ## Plantations
 - [[10 Wiki/13 Plantations/Aerodrome Traffic - 20230123021751\|Aerodrome Traffic - 20230123021751]]
+- [[10 Wiki/13 Plantations/Anemometric Instruments - 20230126111405\|Anemometric Instruments - 20230126111405]]
 
 
 ## Notes without Plantations
+- [[10 Wiki/12 Notes/Alert Service - 20230125035149\|Alert Service - 20230125035149]]
 - [[10 Wiki/12 Notes/Ground to Air Signals - 20230123012741\|Ground to Air Signals - 20230123012741]]
+- [[10 Wiki/12 Notes/Alternator - 20230126105047\|Alternator - 20230126105047]]
+- [[10 Wiki/12 Notes/Ammeter - 20230126110013\|Ammeter - 20230126110013]]
+```
+
+## Embryos
 ```
