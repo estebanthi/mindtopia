@@ -50,6 +50,7 @@ I would recommend it, but don’t be afraid to skip some sections or anecdotes t
 
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Anchor Bias - 20230126110222\|Anchor Bias - 20230126110222]]
 
 
 
