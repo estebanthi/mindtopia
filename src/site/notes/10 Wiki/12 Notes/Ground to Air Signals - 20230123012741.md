@@ -4,7 +4,7 @@
 
 # Ground to Air Signals
 ---
-Ground to air signals are used when an [[100 Zettelkasten/Aircraft\|Aircraft]] crashes and people survive, to communicate with eventual [[100 Zettelkasten/Aircraft\|Aircrafts]] flying over the zone.
+Ground to air signals are used when an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]] crashes and people survive, to communicate with eventual [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircrafts]] flying over the zone.
 
 Here are the signals to know:
 - V: request assistance.
