@@ -4,7 +4,7 @@
 
 # Views Page
 ---
-
+- [ ] Finish the views page 📅 2023-01-25
 
 
 
