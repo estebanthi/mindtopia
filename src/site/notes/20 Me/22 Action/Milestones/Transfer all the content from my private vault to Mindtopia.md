@@ -6,6 +6,8 @@
 ---
 ## Tasks
 - [x] Add some book notes 📅 2023-01-21 ✅ 2023-01-22
+- [ ] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-26
+- [x] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-25 ✅ 2023-01-25
 
 
 ###### META
