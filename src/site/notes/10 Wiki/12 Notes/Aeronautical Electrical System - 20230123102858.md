@@ -4,24 +4,24 @@
 
 # Aeronautical Electrical System
 ---
-The aeronautical electrical system works mainly with a [[100 Zettelkasten/Battery\|Battery]] and an [[100 Zettelkasten/Alternator\|Alternator]]. They're both switched on in normal operation.
+The aeronautical electrical system works mainly with a [[100 Zettelkasten/Battery\|Battery]] and an [[10 Wiki/12 Notes/Alternator - 20230126105047\|Alternator - 20230126105047]]. They're both switched on in normal operation.
 
 A [[Regulator\|Regulator]] allows the alternator to provide exactly the power required by the servos.
 
-> Why is the [[100 Zettelkasten/Ammeter\|Ammeter]] positive when starting?
+> Why is the [[10 Wiki/12 Notes/Ammeter - 20230126110013\|Ammeter - 20230126110013]] positive when starting?
 
 After starting, the ammeter is positive because the battery has been discharged and must be recharged by the alternator.
 
 
 ## Composition
 - **Servitudes**: Power consumers (lights, radio, etc..) supplied in series or parallel.
-- **[[100 Zettelkasten/Alternator\|Alternator]]**
+- **[[10 Wiki/12 Notes/Alternator - 20230126105047\|Alternator - 20230126105047]]**
 - [[100 Zettelkasten/Battery\|Battery]]
 - **Battery switch**
-- **[[100 Zettelkasten/Alternator\|Alternator]] switch**
+- **[[10 Wiki/12 Notes/Alternator - 20230126105047\|Alternator - 20230126105047]] switch**
 - **Park switch**
 - **Protections**
-- **[[100 Zettelkasten/Ammeter\|Ammeter]]**
+- **[[10 Wiki/12 Notes/Ammeter - 20230126110013\|Ammeter - 20230126110013]]**
 - **[[Voltmeter\|Voltmeter]]**
 
 
