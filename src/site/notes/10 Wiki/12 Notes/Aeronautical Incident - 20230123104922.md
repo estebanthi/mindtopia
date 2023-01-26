@@ -4,7 +4,7 @@
 
 # Aeronautical Incident
 ---
-An incident occurs whenever the safety of an [[100 Zettelkasten/Aircraft\|Aircraft]] is challenged by another [[100 Zettelkasten/Aircraft\|Aircraft]]. In this case, a radio message is initiated: "Initial AIRPROX message" followed by the circumstances of the incident, which is confirmed by a written report on landing.
+An incident occurs whenever the safety of an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]] is challenged by another [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]]. In this case, a radio message is initiated: "Initial AIRPROX message" followed by the circumstances of the incident, which is confirmed by a written report on landing.
 
 If it is a control body that questions safety, a complaint is filed with the runway office.
 
