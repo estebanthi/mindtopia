@@ -8,8 +8,8 @@
 ## 🞜 GOALS
 | File                                                                            |
 | ------------------------------------------------------------------------------- |
-| [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]]     |
 | [[20 Me/22 Action/Goals/Things to Do in my Life\|Things to Do in my Life]]   |
+| [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]]     |
 | [[20 Me/22 Action/Goals/Things to See in my Life\|Things to See in my Life]] |
 
 { #5a9019}
@@ -38,7 +38,7 @@
 | [[20 Me/22 Action/Milestones/Reach 1000 Followers\|Reach 1000 Followers]]                                                                               | [[20 Me/22 Action/Projects/Build an Audience on Medium\|Build an Audience on Medium]] | \-               |
 | [[20 Me/22 Action/Milestones/Views Page\|Views Page]]                                                                                                   | [[20 Me/22 Action/Projects/Dreams Analyzer\|Dreams Analyzer]]                         | \-               |
 | [[20 Me/22 Action/Milestones/Transfer all the content from my private vault to Mindtopia\|Transfer all the content from my private vault to Mindtopia]] | [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]                     | \-               |
-| [[20 Me/22 Action/Milestones/Send 20 Applications\|Send 20 Applications]]                                                                               | [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]] | January 24, 2023 |
+| [[20 Me/22 Action/Milestones/Find more companies to apply\|Find more companies to apply]]                                                               | [[20 Me/22 Action/Projects/Find an internship for 2023\|Find an internship for 2023]] | January 28, 2023 |
 
 { #c52c1d}
 
