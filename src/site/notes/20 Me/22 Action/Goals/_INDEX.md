@@ -11,8 +11,8 @@
 
 | File                                                                            |
 | ------------------------------------------------------------------------------- |
-| [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]]     |
 | [[20 Me/22 Action/Goals/Things to Do in my Life\|Things to Do in my Life]]   |
+| [[20 Me/22 Action/Goals/Financial Independence\|Financial Independence]]     |
 | [[20 Me/22 Action/Goals/Things to See in my Life\|Things to See in my Life]] |
 
 
