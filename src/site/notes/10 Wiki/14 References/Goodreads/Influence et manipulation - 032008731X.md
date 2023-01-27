@@ -20,6 +20,7 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541185973l/42613937._SY475_.jpg)
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Association Principle - 20230127080455\|Association Principle - 20230127080455]]
 
 
 
