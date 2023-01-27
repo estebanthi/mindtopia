@@ -41,6 +41,7 @@ I think this book is a must for the students, or more generally for everyone wan
 
 ## Related Notes
 - [[10 Wiki/12 Notes/4 Cs - 20230122093529\|4 Cs - 20230122093529]]
+- [[10 Wiki/12 Notes/Art Memory System - 20230127072040\|Art Memory System - 20230127072040]]
 
 
 
