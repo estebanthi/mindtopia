@@ -45,6 +45,7 @@ I can only recommend this book. It’s the only one I’ve ever read talking rea
 It’s still interesting even if you don’t care about the technology behind Bitcoin, because it also talks a bit about Ethereum and talks about the history and economic challenges taken by cryptocurrencies. But I must admit if you want a book focused more on the economy related to cryptocurrencies, it’s perhaps not the best choice.
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Asymmetric Cryptography - 20230127080728\|Asymmetric Cryptography - 20230127080728]]
 
 
 
