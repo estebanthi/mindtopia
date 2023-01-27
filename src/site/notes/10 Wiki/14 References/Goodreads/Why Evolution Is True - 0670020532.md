@@ -48,6 +48,7 @@ The science inside is admirable and very well explained using examples, making i
 
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Atavism - 20230127081056\|Atavism - 20230127081056]]
 
 
 
