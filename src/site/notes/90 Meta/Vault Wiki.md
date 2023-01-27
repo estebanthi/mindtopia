@@ -60,7 +60,7 @@
 ✅ -> **Part OK**
 🟧 -> **Work in progress**
 ❌ -> **NOK**
-🎵 -> **Impro**
+🎵 -> **Improvisation/Composition**
 🎼 -> **Technique**
 
 ## Workout Log
