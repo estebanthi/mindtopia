@@ -7,7 +7,7 @@
 ## Tasks
 - [x] Find 10 more companies to apply 🔼 📅 2023-01-25 ✅ 2023-01-25
 - [x] Find 10 more companies to apply 🔼 📅 2023-01-26 ✅ 2023-01-26
-- [ ] Find 10 more companies to apply 🔼 📅 2023-01-27
+- [ ] Find 10 more companies to apply 🔼 📅 2023-01-28
 
 
 ###### META
