@@ -6,7 +6,9 @@
 ---
 ## Tasks
 - [x] Add some book notes 📅 2023-01-21 ✅ 2023-01-22
-- [ ] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-27
+- [ ] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-29
+- [x] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-28 ✅ 2023-01-28
+- [x] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-27 ✅ 2023-01-27
 - [x] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-26 ✅ 2023-01-26
 - [x] Transfer 10 notes or more 🔼 🔁 every day 📅 2023-01-25 ✅ 2023-01-25
 
