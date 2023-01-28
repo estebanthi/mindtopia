@@ -8,8 +8,9 @@
 | File                                                               | Completed | Deadline |
 | ------------------------------------------------------------------ | --------- | -------- |
 | [[20 Me/22 Action/Milestones/Categories Page\|Categories Page]] | true      | \-       |
+| [[20 Me/22 Action/Milestones/DA Interpreter\|DA Interpreter]]   | \-        | \-       |
 | [[20 Me/22 Action/Milestones/Queries Tab\|Queries Tab]]         | true      | \-       |
-| [[20 Me/22 Action/Milestones/Views Page\|Views Page]]           | \-        | \-       |
+| [[20 Me/22 Action/Milestones/Views Page\|Views Page]]           | true      | \-       |
 
 
 
