@@ -7,7 +7,7 @@
 This Reddit post explains some [[100 Zettelkasten/Risk Management\|Risk Management]] basics for [[100 Zettelkasten/120 MOC/Trading\|Trading]].
 
 ## Forecasting is Key
-You have to do [[100 Zettelkasten/Backtesting\|Backtesting]] to know your win rate and your reward-to-risk. This way you can estimate the risk units you can get each month on average.
+You have to do [[10 Wiki/12 Notes/Backtesting - 20230128055528\|Backtesting - 20230128055528]] to know your win rate and your reward-to-risk. This way you can estimate the risk units you can get each month on average.
 
 ## 3 Parameters for Profitability
 
