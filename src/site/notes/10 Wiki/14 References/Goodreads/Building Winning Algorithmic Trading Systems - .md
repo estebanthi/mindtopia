@@ -20,6 +20,7 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433273356l/22675886._SX318_.jpg)
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Backtesting - 20230128055528\|Backtesting - 20230128055528]]
 
 
 
