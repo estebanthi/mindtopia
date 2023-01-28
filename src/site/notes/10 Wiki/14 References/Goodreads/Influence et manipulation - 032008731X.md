@@ -21,6 +21,7 @@ modified: 20230122071942
 
 ## Related Notes
 - [[10 Wiki/12 Notes/Association Principle - 20230127080455\|Association Principle - 20230127080455]]
+- [[10 Wiki/12 Notes/Authority Principle - 20230128053542\|Authority Principle - 20230128053542]]
 
 
 
