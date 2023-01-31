@@ -25,4 +25,4 @@ All you have to do is wait for the entire pattern to complete (reach point D) be
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[Harmonic Patterns\|Harmonic Patterns]]
-References:: [[10 Wiki/14 References/Babypips - 20230122084125\|Babypips]]
+References:: [[10 Wiki/14 References/Other/Babypips - 20230122084125\|Babypips]]
