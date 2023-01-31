@@ -22,4 +22,4 @@ The ATR can be used in different ways, such as to set stop-loss and profit-takin
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[100 Zettelkasten/120 MOC/Technical Indicators\|Technical Indicators]]
-References:: [[10 Wiki/14 References/Babypips - 20230122084125\|Babypips]]
+References:: [[10 Wiki/14 References/Other/Babypips - 20230122084125\|Babypips]]
