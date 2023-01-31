@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/hacker-dashboard-simple-organization2022/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/hacker-dashboard-simple-organization2022/","tags":["wiki/references/article"]}
 ---
 
 # Dashboard++ — a simple organization and navigation method for Obsidian Vaults
@@ -99,6 +99,6 @@ Year:: 2022
 
 Consumed:: true
 Reconsume:: 
-Rating:: 
+Rating:: 7
 Priority:: 
 Favorite:: 
