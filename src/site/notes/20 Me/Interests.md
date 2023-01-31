@@ -4,7 +4,7 @@
 
 # Interests
 ---
-Here I keep a reference of all the things that once interested me, in no specific order.
+Here I keep a reference of all the things that once interested me in a way strong enough to write it down here, in no specific order.
 
 - [[Music\|Music]]
 	- [[Piano\|Piano]]
@@ -34,3 +34,11 @@ Here I keep a reference of all the things that once interested me, in no specifi
 - [[100 Zettelkasten/120 MOC/Aeronautics\|Aeronautics]]
 - [[Cooking\|Cooking]]
 - [[100 Zettelkasten/120 MOC/Lucid Dreaming\|Lucid Dreaming]]
+- [[100 Zettelkasten/120 MOC/Productivity\|Productivity]]
+	- [[PPV System\|PPV System]]
+	- [[GTD\|GTD]]
+	- [[Time Blocking\|Time Blocking]]
+	- [[PARA System\|PARA System]]
+- [[100 Zettelkasten/120 MOC/Money\|Money]]
+	- [[Accounting\|Accounting]]
+		- [[Plain Text Accounting\|Plain Text Accounting]]
