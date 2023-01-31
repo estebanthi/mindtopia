@@ -27,11 +27,10 @@ Depending on what's your purpose by exploring this vault, here are some interest
 
 - [[30 Public/31 Start Here/Navigate through this Website\|Navigate through this Website]]
 - To understand how I've set up my [[Second Brain\|Second Brain]]/[[Digital Garden\|Digital Garden]]:
-	- [[20 Me/24 Workflows/My Obsidian Workflow\|My Obsidian Workflow]]
-	- [[20 Me/22 Action/Projects/My Digital Garden\|My Digital Garden]]
+	- [[20 Me/Workflows/My Obsidian Workflow\|My Obsidian Workflow]]
 	- [[30 Public/31 Start Here/How I Made this Website\|How I Made this Website]]
 - To explore my knowledge-related notes:
-	- [[20 Me/24 Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]]
+	- [[20 Me/Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]]
 	- [[10 Wiki/ZK Index\|ZK Index]]
 	- [[10 Wiki/Featured\|Featured]]
 	- [[10 Wiki/Random\|Random]]
@@ -41,3 +40,5 @@ Depending on what's your purpose by exploring this vault, here are some interest
 	- [[30 Public/31 Start Here/Contact Me\|Contact Me]]
 	- [[30 Public/31 Start Here/Roadmap\|Roadmap]]
 	- [[30 Public/31 Start Here/Support Me\|Support Me]]
+- Last updates to Mindtopia:
+	- [[30 Public/32 Updates/2023-01-31 - LifeOS to Notion\|2023-01-31 - LifeOS to Notion]]
