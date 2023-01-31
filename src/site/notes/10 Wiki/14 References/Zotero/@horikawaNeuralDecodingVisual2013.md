@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/horikawa-neural-decoding-visual2013/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/horikawa-neural-decoding-visual2013/","tags":["wiki/references/article"]}
 ---
 
 # Neural Decoding of Visual Imagery During Sleep
@@ -39,5 +39,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 9
 Favorite:: 
