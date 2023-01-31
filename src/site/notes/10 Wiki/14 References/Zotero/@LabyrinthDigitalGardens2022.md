@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/labyrinth-digital-gardens2022/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/labyrinth-digital-gardens2022/","tags":["wiki/references/article"]}
 ---
 
 # A Labyrinth of Digital Gardens 🌱
@@ -29,5 +29,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 8
 Favorite:: 
