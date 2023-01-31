@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/prototype7185-risk-management-deposit2023/","tags":["wiki/references/need-work"]}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/prototype7185-risk-management-deposit2023/","tags":["wiki/references/need-work, wiki/references/article"]}
 ---
 
 # Risk Management + Deposit Ideas
@@ -32,5 +32,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 7
 Favorite:: 
