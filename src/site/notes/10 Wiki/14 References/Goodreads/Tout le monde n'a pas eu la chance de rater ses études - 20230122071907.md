@@ -26,7 +26,7 @@ modified: 20230122071942
 
 ###### META
 Status:: #wiki/references/goodreads
-Related:: [[100 Zettelkasten/120 MOC/Money\|Money]], [[100 Zettelkasten/120 MOC/Business\|Business]]
+Related:: [[100 Zettelkasten/120 MOC/Money\|100 Zettelkasten/120 MOC/Money]], [[100 Zettelkasten/120 MOC/Business\|Business]]
 
 Link:: https://www.goodreads.com/book/show/32204700-tout-le-monde-n-a-pas-eu-la-chance-de-rater-ses-tudes
 Author:: [[Olivier Roland\|Olivier Roland]]
