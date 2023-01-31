@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/rldkyce2022-recap5612023/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/rldkyce2022-recap5612023/","tags":["wiki/references/article"]}
 ---
 
 # 2022 Recap: +561%, + $168,366. This year in January I had my "Aha" moment where my 1.5 years of studying and practicing "Clicked" and I was able to find my edge and execute it consistently since. Here is how I think I did it. :)
@@ -39,6 +39,6 @@ Year:: 2022
 
 Consumed:: true
 Reconsume:: 
-Rating:: 
+Rating:: 6
 Priority:: 
 Favorite:: 
