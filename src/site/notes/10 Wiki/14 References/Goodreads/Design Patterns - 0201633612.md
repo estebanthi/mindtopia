@@ -49,7 +49,7 @@ I think every programmer who has never heard about design patterns should read i
 
 ###### META
 Status:: #wiki/references/goodreads
-Related:: [[10 Wiki/14 References/Goodreads/Design Patterns - 0201633612\|Design Patterns - 0201633612.md]]
+Related:: [[10 Wiki/14 References/Goodreads/Design Patterns - 0201633612\|Design Patterns - 0201633612]]
 
 Link:: https://www.goodreads.com/book/show/85009.Design_Patterns
 Author:: [[Erich Gamma\|Erich Gamma]]
