@@ -22,6 +22,7 @@ modified: 20230122071942
 ## Related Notes
 - [[10 Wiki/12 Notes/Abstract Factory - 20230122113146\|Abstract Factory - 20230122113146]]
 - [[10 Wiki/12 Notes/Adapter - 20230123120422\|Adapter - 20230123120422]]
+- [[10 Wiki/12 Notes/Behavioral Patterns - 20230129065055\|Behavioral Patterns - 20230129065055]]
 
 
 
