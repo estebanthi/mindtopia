@@ -26,7 +26,7 @@ modified: 20230122071942
 
 ###### META
 Status:: #wiki/references/goodreads
-Related:: [[100 Zettelkasten/120 MOC/Money\|Money]], [[100 Zettelkasten/120 MOC/Business\|Business]]
+Related:: [[100 Zettelkasten/120 MOC/Money\|100 Zettelkasten/120 MOC/Money]], [[100 Zettelkasten/120 MOC/Business\|Business]]
 
 Link:: https://www.goodreads.com/book/show/29570210-p-re-riche-p-re-pauvre
 Author:: [[Robert T. Kiyosaki\|Robert T. Kiyosaki]]
