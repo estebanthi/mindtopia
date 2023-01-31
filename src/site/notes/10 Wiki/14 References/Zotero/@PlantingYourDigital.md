@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/planting-your-digital/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/planting-your-digital/","tags":["wiki/references/article"]}
 ---
 
 # 🪴 Planting Your Digital Garden
@@ -38,5 +38,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 6.5
 Favorite:: 
