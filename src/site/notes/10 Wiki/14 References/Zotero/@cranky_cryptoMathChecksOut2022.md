@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/cranky-crypto-math-checks-out2022/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/cranky-crypto-math-checks-out2022/","tags":["wiki/references/reddit"]}
 ---
 
 # Math Checks Out - Risk Management Calculator and Equity Curve Generator
@@ -37,6 +37,6 @@ Year:: 2022
 
 Consumed:: true
 Reconsume:: false
-Rating:: 4
+Rating:: 8
 Priority:: 
 Favorite:: 
