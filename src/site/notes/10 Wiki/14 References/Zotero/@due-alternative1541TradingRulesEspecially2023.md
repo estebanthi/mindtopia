@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/due-alternative1541-trading-rules-especially2023/","tags":["wiki/references/need-work"]}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/due-alternative1541-trading-rules-especially2023/","tags":["wiki/references/need-work, wiki/references/reddit"]}
 ---
 
 # Trading Rules (especially for newbies)
@@ -24,5 +24,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 6
 Favorite:: 
