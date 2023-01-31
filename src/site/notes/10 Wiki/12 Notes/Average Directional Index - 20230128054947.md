@@ -22,4 +22,4 @@ The ADX is not a signal generator but a gauge of trend strength. It can be used 
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[100 Zettelkasten/120 MOC/Technical Indicators\|Technical Indicators]]
-References:: [[10 Wiki/14 References/Babypips - 20230122084125\|Babypips]]
+References:: [[10 Wiki/14 References/Other/Babypips - 20230122084125\|Babypips]]
