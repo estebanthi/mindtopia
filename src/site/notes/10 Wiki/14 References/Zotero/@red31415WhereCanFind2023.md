@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/red31415-where-can-find2023/"}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/red31415-where-can-find2023/","tags":["wiki/references/reddit"]}
 ---
 
 # Where can I find knowledge gardens?
@@ -27,6 +27,6 @@ Year:: 2023
 
 Consumed:: true
 Reconsume:: false
-Rating:: 
+Rating:: 7
 Priority:: 
 Favorite:: 
