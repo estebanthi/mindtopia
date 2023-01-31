@@ -17,12 +17,6 @@
 🎴 -> **Flashcard**
 🖇️ -> **Reference**
 
-## Tasks
-🗻 --> **Goal**
-🚧 --> **Project**
-🎯 --> **Milestone**
-✅ --> **Task**
-
 ## New Discoveries
 💡 -> **General**
 📕 -> **Fiction book**
@@ -33,12 +27,6 @@
 🏋️ -> **Sport**
 🎨 -> **Art**
 🔭 -> **Science**
-
-## Personal Projects
-💡 -> **Ideas**
-✍️ -> **Work in progress**
-🛠️ -> **Polishing**
-✅ -> **Project or milestone finished**
 
 ## Reading Log
 ✅ -> **Finished book**
@@ -79,7 +67,6 @@ Priority -> From 1 (low) to 3 (high)
 Rating -> From 1 (don't liked) to 10 (loved)
 
 ## Tags
-
 wiki/notes/embryo
 wiki/notes/germinating
 wiki/notes/mature
@@ -94,16 +81,8 @@ wiki/references/...
 
 meta/need-work
 meta/working-on
+meta/my-thinking
 
-action/milestone
-action/project
-action/goal
-
-tasks/habit
-tasks/pending
-tasks/...
-
-routine
 workflow
 idea
 contact
@@ -111,4 +90,3 @@ contact
 dashboard
 hub
 index
-
