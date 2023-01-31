@@ -23,5 +23,5 @@ Priority::
 Consumed:: true
 Reconsume:: 
 
-Rating:: 
+Rating:: 6
 Favorite:: 
