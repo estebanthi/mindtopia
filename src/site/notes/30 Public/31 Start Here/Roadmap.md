@@ -8,4 +8,4 @@ I don't have any specific objectives with Mindtopia. I just want it to be as big
 I also want it to be like a *history* of my life. By logging everything into Markdown, I can have a retrospective view on my life and eventually grow.
 
 - [ ] Transfer all the content from my personal vault to Mindtopia
-- [ ] Make Mindtopia grow
+- [ ] Make Mindtopia grow and become like my own Wikipedia related to stuff interesting me
