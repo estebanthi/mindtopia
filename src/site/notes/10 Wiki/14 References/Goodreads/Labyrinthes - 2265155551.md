@@ -29,7 +29,7 @@ Status:: #wiki/references/goodreads
 Related:: [[Thriller\|Thriller]]
 
 Link:: https://www.goodreads.com/book/show/60763382-labyrinthes
-Author:: [[20 Me/Contacts/Franck Thilliez\|Franck Thilliez]]
+Author:: [[Franck Thilliez\|Franck Thilliez]]
 Year:: 
 
 Priority:: 
