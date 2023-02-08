@@ -15,14 +15,14 @@ Before diving into the wiki, you should also check [[20 Me/Workflows/My Zettelka
 
 ## Notes without Plantations
 - [[10 Wiki/12 Notes/Alert Service - 20230125035149\|Alert Service - 20230125035149]]
-- [[10 Wiki/12 Notes/Ammeter - 20230126110013\|Ammeter - 20230126110013]]
 - [[10 Wiki/12 Notes/Alternator - 20230126105047\|Alternator - 20230126105047]]
+- [[10 Wiki/12 Notes/Ammeter - 20230126110013\|Ammeter - 20230126110013]]
 - [[10 Wiki/12 Notes/Ask - 20230127080336\|Ask - 20230127080336]]
 - [[10 Wiki/12 Notes/Casinos Bonuses Theory - 20230129064440\|Casinos Bonuses Theory - 20230129064440]]
 - [[10 Wiki/12 Notes/Ground to Air Signals - 20230123012741\|Ground to Air Signals - 20230123012741]]
 ```
 
 ## Embryos
-- [[10 Wiki/12 Notes/Association Principle - 20230127080455.md|Association Principle - 20230127080455]]
 - [[10 Wiki/12 Notes/Battery - 20230129064209.md|Battery - 20230129064209]]
+- [[10 Wiki/12 Notes/Association Principle - 20230127080455.md|Association Principle - 20230127080455]]
 ```
