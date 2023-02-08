@@ -29,7 +29,7 @@ Status:: #wiki/references/goodreads
 Related:: [[Thriller\|Thriller]]
 
 Link:: https://www.goodreads.com/book/show/1508175.Train_d_enfer_pour_Ange_rouge
-Author:: [[20 Me/Contacts/Franck Thilliez\|Franck Thilliez]]
+Author:: [[Franck Thilliez\|Franck Thilliez]]
 Year:: 2003-01-01
 
 Priority:: 
