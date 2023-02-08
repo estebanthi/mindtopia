@@ -4,8 +4,6 @@
 
 # Ideas
 ---
-| File | summary | phone |
-| ---- | ------- | ----- |
 
 
 
