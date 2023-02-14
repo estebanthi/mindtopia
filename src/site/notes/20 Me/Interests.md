@@ -31,6 +31,7 @@ Here I keep a reference of all the things that once interested me in a way stron
 	- [[Bodybuilding\|Bodybuilding]]
 	- [[ATV\|ATV]]
 	- [[Swimming\|Swimming]]
+	- [[Skiing\|Skiing]]
 - [[100 Zettelkasten/120 MOC/Aeronautics\|Aeronautics]]
 - [[Cooking\|Cooking]]
 - [[100 Zettelkasten/120 MOC/Lucid Dreaming\|Lucid Dreaming]]
