@@ -6,6 +6,7 @@
 ---
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Git - 20230213072853\|Git - 20230213072853]]
 
 
 
