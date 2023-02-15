@@ -14,6 +14,6 @@ For the same reason, we see a lot of actors or comedians in ads. No one cares ab
 
 
 ###### META
-Status:: #wiki/notes/embryo
+Status:: #wiki/notes/mature 
 Plantations:: [[Cognitive Bias\|Cognitive Bias]]
 References:: [[10 Wiki/14 References/Goodreads/Influence et manipulation - 032008731X\|Influence et manipulation]]
