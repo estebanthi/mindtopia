@@ -41,4 +41,5 @@ Depending on what's your purpose by exploring this vault, here are some interest
 	- [[30 Public/31 Start Here/Roadmap\|Roadmap]]
 	- [[30 Public/31 Start Here/Support Me\|Support Me]]
 - Last updates to Mindtopia:
+	- [[30 Public/32 Updates/2023-02-08 - From Markdown to Databases\|2023-02-08 - From Markdown to Databases]]
 	- [[30 Public/32 Updates/2023-01-31 - LifeOS to Notion\|2023-01-31 - LifeOS to Notion]]
