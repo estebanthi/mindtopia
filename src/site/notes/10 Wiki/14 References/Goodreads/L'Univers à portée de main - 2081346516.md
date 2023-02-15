@@ -21,6 +21,7 @@ modified: 20230122071942
 
 ## Related Notes
 - [[10 Wiki/12 Notes/Alpha Particle - 20230126104711\|Alpha Particle - 20230126104711]]
+- [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 
 
 
