@@ -42,6 +42,7 @@ I highly recommend this book to everyone wanting to discover how our universe wo
 
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 
 
 
