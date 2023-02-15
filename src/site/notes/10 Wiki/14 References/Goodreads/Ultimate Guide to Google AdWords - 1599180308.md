@@ -21,6 +21,7 @@ modified: 20230122071942
 
 ## Related Notes
 - [[10 Wiki/12 Notes/A and B Testing - 20230122093959\|A and B Testing - 20230122093959]]
+- [[10 Wiki/12 Notes/Best Marketing Headlines - 20230214092852\|Best Marketing Headlines - 20230214092852]]
 
 
 
