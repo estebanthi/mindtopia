@@ -43,6 +43,7 @@ I think every programmer who has never heard about design patterns should read i
 
 ## Related Notes
 - [[10 Wiki/12 Notes/Adapter - 20230123120422\|Adapter - 20230123120422]]
+- [[10 Wiki/12 Notes/Black Box Reuse - 20230215072008\|Black Box Reuse - 20230215072008]]
 
 
 
