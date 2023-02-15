@@ -7,6 +7,7 @@
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435244003l/33418._SY475_.jpg)
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 
 
 
