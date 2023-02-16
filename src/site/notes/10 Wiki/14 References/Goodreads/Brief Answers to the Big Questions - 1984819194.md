@@ -45,6 +45,7 @@ His theories will no doubt continue to inspire and influence many for years to c
 
 ## Related Notes
 - [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
+- [[10 Wiki/12 Notes/Black Hole - 20230215073856\|Black Hole - 20230215073856]]
 
 
 
