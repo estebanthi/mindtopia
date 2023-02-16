@@ -20,6 +20,7 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352043869l/16127555.jpg)
 
 ## Related Notes
+- [[10 Wiki/12 Notes/Bond - 20230216071145\|Bond - 20230216071145]]
 
 
 
