@@ -16,7 +16,7 @@ The ATR is then typically smoothed using a moving average to reduce the impact o
 
 The ATR is typically plotted as a line on a chart, and its value is given in the same units as the price of the financial instrument being analyzed. A higher ATR value indicates higher [[100 Zettelkasten/Volatility\|Volatility]], while a lower ATR value indicates lower [[100 Zettelkasten/Volatility\|Volatility]].
 
-The ATR can be used in different ways, such as to set stop-loss and profit-taking levels, to identify potential [[100 Zettelkasten/Breakout\|Breakouts]], and to confirm trends.
+The ATR can be used in different ways, such as to set stop-loss and profit-taking levels, to identify potential [[Breakout\|Breakouts]], and to confirm trends.
 
 
 ###### META
