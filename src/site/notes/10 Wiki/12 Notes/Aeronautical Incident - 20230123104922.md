@@ -13,5 +13,5 @@ If it is a control body that questions safety, a complaint is filed with the run
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aeronautics Regulation\|Aeronautics Regulation]]
+Plantations:: [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
