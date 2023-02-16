@@ -6,4 +6,5 @@
 ---
 Here you can find a collection of my favorite wiki notes.
 
+- [[10 Wiki/12 Notes/ChatGPT Prompts - 20230216065452\|ChatGPT Prompts - 20230216065452]]
 
