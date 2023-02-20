@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/arrival-briefing-20230122115456/"}
+aliases: Arrival Briefing
+created: 20230122115500
+dg-publish: true
+tags: []
+updated: 20230122115500
 ---
-
 # Arrival Briefing
 ---
 The arrival briefing is a briefing used after taking the [[ATIS\|ATIS]] or contacting the arrival [[Aerodrome\|Aerodrome]]. It is composed of:
