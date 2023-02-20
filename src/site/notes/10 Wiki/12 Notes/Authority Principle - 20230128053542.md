@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/authority-principle-20230128053542/"}
+aliases: Authority Principle
+created: 20230128053549
+dg-publish: true
+tags: []
+updated: 20230128053549
 ---
-
 # Authority Principle
 ---
 The authority principle, also known as the authority bias, is a [[Cognitive Bias\|Cognitive Bias]] in which people tend to obey authority figures without question.
