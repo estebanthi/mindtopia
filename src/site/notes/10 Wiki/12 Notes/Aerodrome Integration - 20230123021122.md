@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aerodrome-integration-20230123021122/"}
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/aerodrome-integration-20230123021122/","tags":["wiki/meta/random"]}
 ---
 
 # Aerodrome Integration
