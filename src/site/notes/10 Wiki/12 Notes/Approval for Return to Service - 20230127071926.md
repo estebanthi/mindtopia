@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/approval-for-return-to-service-20230127071926/"}
+aliases: Approval for Return to Service
+created: 20230127071935
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230127071935
 ---
-
 # Approval for Return to Service
 ---
 An approval for return to service (RTS) is a document issued by an authorized organization, such as an aviation authority or a maintenance, repair, and overhaul (MRO) facility, that certifies that a particular aircraft, engine, or component has been inspected, repaired, or overhauled and is now safe to return to service.
