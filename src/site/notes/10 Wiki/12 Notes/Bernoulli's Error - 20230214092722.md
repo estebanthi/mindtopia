@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/bernoulli-s-error-20230214092722/"}
+aliases: Bernoulli's Error
+created: 20230214092728
+dg-publish: true
+tags: []
+updated: 20230214092728
 ---
-
 # Bernoulli's Error
 ---
 This is a psychological bias related to the utility.
