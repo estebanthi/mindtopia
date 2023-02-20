@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/automatic-direction-finder-20230123120751/"}
+aliases: Automatic Direction Finder, ADF, Radio Compass
+created: 20230123120757
+dg-publish: true
+tags: []
+updated: 20230123120757
 ---
-
 # Automatic Direction Finder
 ---
 The automatic direction finder, also called **radio compass**, refers to the on-board receiver. It consists of ground and aircraft equipment.
