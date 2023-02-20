@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-incident-20230123104922/"}
+aliases: Aeronautical Incident
+created: 20230123104927
+dg-publish: true
+tags: []
+updated: 20230123104927
 ---
-
 # Aeronautical Incident
 ---
 An incident occurs whenever the safety of an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]] is challenged by another [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]]. In this case, a radio message is initiated: "Initial AIRPROX message" followed by the circumstances of the incident, which is confirmed by a written report on landing.
