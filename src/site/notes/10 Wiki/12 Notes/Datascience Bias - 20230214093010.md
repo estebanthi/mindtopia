@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/datascience-bias-20230214093010/"}
+aliases: Datascience Bias
+created: 20230214093013
+dg-publish: true
+tags: []
+updated: 20230214093013
 ---
-
 # Datascience Bias
 ---
 In data science, bias refers to systematic errors in data or in the modeling process that can lead to inaccurate or unfair predictions or conclusions. Bias can arise from various sources, including the data collection process, the modeling assumptions, or the algorithm used.
