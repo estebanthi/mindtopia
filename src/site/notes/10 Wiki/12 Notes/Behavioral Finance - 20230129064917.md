@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/behavioral-finance-20230129064917/"}
+aliases: Behavioral Finance
+created: 20230129064920
+dg-publish: true
+tags: []
+updated: 20230129064920
 ---
-
 # Behavioral Finance
 ---
 Behavioral finance is a field of study that combines [[100 Zettelkasten/120 MOC/Psychology\|Psychology]] and [[Economics\|Economics]] to better understand why people make certain financial decisions and how those decisions can impact financial markets.
