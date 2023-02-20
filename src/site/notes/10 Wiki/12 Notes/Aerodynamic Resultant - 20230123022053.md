@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aerodynamic-resultant-20230123022053/"}
+aliases: Aerodynamic Resultant
+created: 20230123022101
+dg-publish: true
+tags: []
+updated: 20230123022101
 ---
-
 # Aerodynamic Resultant
 ---
 The aerodynamic resultant is the **force created by the air on the aircraft**.
