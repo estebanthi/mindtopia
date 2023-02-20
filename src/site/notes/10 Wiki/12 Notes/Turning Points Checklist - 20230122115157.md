@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/turning-points-checklist-20230122115157/"}
+aliases: Turning Points Checklist
+created: 20230122115204
+dg-publish: true
+tags: []
+updated: 20230122115204
 ---
-
 # Turning Points Checklist
 ---
 Checklist used for each turning point during a [[Navigation\|Navigation]]. It is composed of:
