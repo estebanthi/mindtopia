@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/bias-variance-tradeoff-20230215064841/"}
+aliases: Bias Variance Tradeoff
+created: 20230215064848
+dg-publish: true
+tags: []
+updated: 20230215064848
 ---
-
 # Bias Variance Tradeoff
 ---
 The bias-variance tradeoff is a key concept in [[100 Zettelkasten/120 MOC/Machine Learning\|Machine Learning]] that refers to the tradeoff between a model's ability to fit the training data (i.e., low [[10 Wiki/12 Notes/Datascience Bias - 20230214093010\|Datascience Bias]]) and its ability to generalize to new, unseen data (i.e., low [[100 Zettelkasten/Variance\|Variance]]).
