@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/best-marketing-headlines-20230214092852/"}
+aliases: Best Marketing Headlines
+created: 20230214092857
+dg-publish: true
+tags: []
+updated: 20230214092857
 ---
-
 # Best Marketing Headlines
 ---
 1. How to . . . 
