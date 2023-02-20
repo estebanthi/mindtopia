@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/adiabatic-cooling-20230123112126/"}
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/adiabatic-cooling-20230123112126/","tags":["wiki/meta/random"]}
 ---
 
 # Adiabatic Cooling
