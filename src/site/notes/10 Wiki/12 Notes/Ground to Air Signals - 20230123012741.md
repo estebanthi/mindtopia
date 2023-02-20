@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/ground-to-air-signals-20230123012741/"}
+aliases: Ground to Air Signals
+created: 20230123012747
+dg-publish: true
+tags: []
+updated: 20230123012747
 ---
-
 # Ground to Air Signals
 ---
 Ground to air signals are used when an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]] crashes and people survive, to communicate with eventual [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircrafts]] flying over the zone.
