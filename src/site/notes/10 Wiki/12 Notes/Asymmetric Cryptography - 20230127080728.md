@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/asymmetric-cryptography-20230127080728/"}
+aliases: Asymmetric Cryptography
+created: 20230127080735
+dg-publish: true
+tags: []
+updated: 20230127080735
 ---
-
 # Asymmetric Cryptography
 ---
 Asymmetric cryptography, also known as public key cryptography, is a method of encrypting and decrypting data using a pair of keys: a public key and a private key.
