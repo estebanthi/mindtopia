@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-anti-icing-systems-20230126112351/"}
+aliases: Aeronautical Anti-Icing Systems
+created: 20230126112359
+dg-publish: true
+tags: []
+updated: 20230126112359
 ---
-
 # Aeronautical Anti-Icing Systems
 ---
 Anti-icing systems for aircrafts are designed to prevent the formation of ice on the surfaces of the aircraft, such as the wings, tail, and engines, which can cause a reduction in [[100 Zettelkasten/Lift\|Lift]], increase [[100 Zettelkasten/Drag\|Drag]] and affect the control of the aircraft. The main types of anti-icing systems are:
@@ -14,5 +17,5 @@ Anti-icing systems for aircrafts are designed to prevent the formation of ice on
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
