@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/artificial-intelligence-20230127072918/"}
+aliases: Artificial Intelligence, AI
+created: 20230127072922
+dg-publish: true
+tags: []
+updated: 20230127072922
 ---
-
 # Artificial Intelligence
 ---
 Artificial intelligence (AI) refers to the simulation of human intelligence processes by computer systems.
