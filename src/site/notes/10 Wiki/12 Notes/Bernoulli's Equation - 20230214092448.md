@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/bernoulli-s-equation-20230214092448/"}
+aliases: Bernoulli's Equation
+created: 20230214092454
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230214092454
 ---
-
 # Bernoulli's Equation
 ---
 Bernoulli's equation is a fundamental equation in fluid dynamics that relates the pressure, velocity, and elevation of a fluid flowing through a system. It is based on the principle of conservation of energy and is named after the Swiss mathematician and physicist, Daniel Bernoulli.
