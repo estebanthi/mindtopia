@@ -9,23 +9,27 @@ This page references the [[10 Wiki/Status/Plantation - 20230114032002\|Plantatio
 Before diving into the wiki, you should also check [[20 Me/Workflows/My Zettelkasten Workflow\|My Zettelkasten Workflow]] to understand how this wiki works and what are [[10 Wiki/Status/Plantation - 20230114032002\|Plantations]].
 
 ## Plantations
-- [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
+- [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 - [[10 Wiki/13 Plantations/Anemometric Instruments - 20230126111405\|Anemometric Instruments - 20230126111405]]
+- [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
 - [[10 Wiki/13 Plantations/Aerodrome Traffic - 20230123021751\|Aerodrome Traffic - 20230123021751]]
 
 
 ## Notes without Plantations
 - [[10 Wiki/12 Notes/Ball - 20230215070009\|Ball - 20230215070009]]
 - [[10 Wiki/12 Notes/Bernoulli's Error - 20230214092722\|Bernoulli's Error - 20230214092722]]
-- [[10 Wiki/12 Notes/Bias Variance Tradeoff - 20230215064841\|Bias Variance Tradeoff - 20230215064841]]
-- [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 - [[10 Wiki/12 Notes/Bid - 20230215065026\|Bid - 20230215065026]]
+- [[10 Wiki/12 Notes/Bias Variance Tradeoff - 20230215064841\|Bias Variance Tradeoff - 20230215064841]]
 - [[10 Wiki/12 Notes/Big Belt - 20230215065546\|Big Belt - 20230215065546]]
-- [[10 Wiki/12 Notes/Casinos Bonuses Theory - 20230129064440\|Casinos Bonuses Theory - 20230129064440]]
-- [[10 Wiki/12 Notes/ChatGPT Prompts - 20230216065452\|ChatGPT Prompts - 20230216065452]]
+- [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 - [[10 Wiki/12 Notes/Blockchain - 20230216070315\|Blockchain - 20230216070315]]
 - [[10 Wiki/12 Notes/Blockchain Development - 20230216070430\|Blockchain Development - 20230216070430]]
+- [[10 Wiki/12 Notes/ChatGPT Prompts - 20230216065452\|ChatGPT Prompts - 20230216065452]]
+- [[10 Wiki/12 Notes/Casinos Bonuses Theory - 20230129064440\|Casinos Bonuses Theory - 20230129064440]]
+- [[10 Wiki/12 Notes/Low Level Circuit - 20230220114534\|Low Level Circuit - 20230220114534]]
+- [[10 Wiki/12 Notes/Re Oiling - 20230220123841\|Re Oiling - 20230220123841]]
 ```
 
 ## Embryos
+- [[10 Wiki/12 Notes/Low Level Circuit - 20230220114534.md|Low Level Circuit - 20230220114534]]
 ```
