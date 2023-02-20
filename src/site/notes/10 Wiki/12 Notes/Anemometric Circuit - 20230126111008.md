@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/anemometric-circuit-20230126111008/"}
+aliases: Anemometric Circuit
+created: 20230126111011
+dg-publish: true
+tags: []
+updated: 20230126111011
 ---
-
 # Anemometric Circuit
 ---
 The anemometric circuit provides external pressure information to instruments requiring it. It measures:
@@ -16,5 +19,5 @@ In unfavourable conditions, the sockets may ice up causing the loss of this info
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
