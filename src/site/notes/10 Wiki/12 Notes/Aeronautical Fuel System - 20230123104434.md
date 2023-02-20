@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-fuel-system-20230123104434/"}
+aliases: Aeronautical Fuel System
+created: 20230123104441
+dg-publish: true
+tags: []
+updated: 20230123104441
 ---
-
 # Aeronautical Fuel System
 ---
 Consists of :
@@ -21,5 +24,5 @@ Consists of :
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
