@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/average-true-range-20230128055301/"}
+aliases: Average True Range, ATR
+created: 20230128055305
+dg-publish: true
+tags: []
+updated: 20230128055305
 ---
-
 # Average True Range
 ---
 The Average True Range (ATR) is a [[100 Zettelkasten/120 MOC/Technical Indicators\|Technical Indicator]] used in [[100 Zettelkasten/Technical Analysis\|Technical Analysis]] to measure the [[100 Zettelkasten/Volatility\|Volatility]] of a financial instrument, such as a stock, commodity or currency. It is typically used to identify the overall level of market [[100 Zettelkasten/Volatility\|Volatility]] and to assess the potential for price movements in the future.
