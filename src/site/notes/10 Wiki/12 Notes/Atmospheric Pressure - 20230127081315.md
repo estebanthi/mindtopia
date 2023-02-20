@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/atmospheric-pressure-20230127081315/"}
+aliases: Atmospheric Pressure
+created: 20230127081321
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230127081321
 ---
-
 # Atmospheric Pressure
 ---
 Atmospheric pressure, also known as barometric pressure, is the force exerted on the [[100 Zettelkasten/Earth\|Earth]]'s surface by the weight of the atmosphere.
