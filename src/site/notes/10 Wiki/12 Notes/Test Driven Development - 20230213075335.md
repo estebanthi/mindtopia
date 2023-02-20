@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/test-driven-development-20230213075335/"}
+aliases: Test Driven Development
+created: 20230213075340
+dg-publish: true
+tags:
+- wiki/courses/ilog
+updated: 20230213075340
 ---
-
 # Test Driven Development
 ---
 - Writing test cases before writing the code doesn’t take any more effort than writing test cases after the code; it simply resequences the test-case-writing activity.
