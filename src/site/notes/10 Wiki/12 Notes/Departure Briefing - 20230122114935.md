@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/departure-briefing-20230122114935/"}
+aliases: Departure Briefing
+created: 20230122114940
+dg-publish: true
+tags: []
+updated: 20230122114940
 ---
-
 # Departure Briefing
 ---
 The departure briefing is executed just before taking off. It is composed of:
