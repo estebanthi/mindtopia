@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-compensator-20230123023629/"}
+aliases: Aeronautical Compensator
+created: 20230123023634
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230123023634
 ---
-
 # Aeronautical Compensator
 ---
 When piloting [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircrafts]], we need compensators. Else, the efforts on the controls are too intense
