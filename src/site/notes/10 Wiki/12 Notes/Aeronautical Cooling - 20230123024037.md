@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-cooling-20230123024037/"}
+aliases: Aeronautical Cooling
+created: 20230123024043
+dg-publish: true
+tags: []
+updated: 20230123024043
 ---
-
 # Aeronautical Cooling
 ---
 Aircraft are cooled by **air**. Cylinders are fitted with [[Fin\|Fins]] to increase the air/metal surface area.
@@ -31,5 +34,5 @@ Avoid too sudden variations in engine temperature (e.g. going from a big climb t
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
