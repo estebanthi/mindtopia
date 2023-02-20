@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/achieving-navigation-20230122115853/"}
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/achieving-navigation-20230122115853/","tags":["wiki/meta/random"]}
 ---
 
 # Achieving Navigation
