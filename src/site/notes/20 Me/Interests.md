@@ -16,7 +16,7 @@ Here I keep a reference of all the things that once interested me in a way stron
 - [[100 Zettelkasten/120 MOC/Programming\|Programming]]
 	- [[100 Zettelkasten/Python\|Python]]
 	- [[C\|C]]
-	- [[100 Zettelkasten/C++\|C++]]
+	- [[C++\|C++]]
 	- [[Java\|Java]]
 	- [[JavaScript\|JavaScript]]
 	- [[PHP\|PHP]]
