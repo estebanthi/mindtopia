@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/availability-bias-20230128054712/"}
+aliases: Availability Bias
+created: 20230128054716
+dg-publish: true
+tags: []
+updated: 20230128054716
 ---
-
 # Availability Bias
 ---
 The availability bias is a [[Cognitive Bias\|Cognitive Bias]] that refers to the tendency for people to overestimate the likelihood of an event occurring based on how easily examples of that event come to mind. This bias occurs because people tend to rely more heavily on information that is easily available or salient, rather than considering all the relevant information.
