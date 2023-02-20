@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/behavioral-patterns-20230129065055/"}
+aliases: Behavioral Patterns
+created: 20230129065100
+dg-publish: true
+tags: []
+updated: 20230129065100
 ---
-
 # Behavioral Patterns
 ---
 These are [[100 Zettelkasten/Design Patterns\|Design Patterns]] used to maintain effective communication and manage responsibilities between objects.
