@@ -1,20 +1,7 @@
 ---
-aliases: Head First Design Patterns
-dg-publish: true
-author: Eric Freeman
-title: Head First Design Patterns
-subtitle: 
-series: 
-cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408309444l/58128.jpg
-rating: 7
-avgRating: 4.28
-dateAdded: 2022-12-24
-dateRead: 
-datePublished: 2004-01-01
-shelves: programming
-created: 20230122071906
-modified: 20230122071942
+{"dg-publish":true,"permalink":"/10-wiki/14-references/goodreads/head-first-design-patterns-0596007124/","title":"Head First Design Patterns"}
 ---
+
 # Head First Design Patterns
 ---
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408309444l/58128.jpg)
