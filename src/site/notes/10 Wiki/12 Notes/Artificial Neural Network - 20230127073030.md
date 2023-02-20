@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/artificial-neural-network-20230127073030/"}
+aliases: Artificial Neural Network
+created: 20230127073038
+dg-publish: true
+tags: []
+updated: 20230127073038
 ---
-
 # Artificial Neural Network
 ---
 An artificial neural network (ANN) is a type of [[100 Zettelkasten/120 MOC/Machine Learning\|Machine Learning]] model that is inspired by the structure and function of the human brain. It is composed of layers of interconnected "neurons," which are mathematical functions that process and transmit information. These layers are connected by pathways called "edges," which are used to transmit information from one neuron to another.
