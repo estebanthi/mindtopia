@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/venturi-pneumatic-circuit-20230124102331/"}
+aliases: Venturi Pneumatic Circuit
+created: 20230124102337
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230124102337
 ---
-
 # Venturi Pneumatic Circuit
 ---
 The [[Venturi\|Venturi]] pneumatic circuit is a [[10 Wiki/12 Notes/Aeronautical Pneumatic Circuit - 20230124101652\|Aeronautical Pneumatic Circuit]] using a [[Venturi\|Venturi]] instead of a [[Vacuum Pump\|Vacuum Pump]].
@@ -19,5 +23,5 @@ The venturi tube has two drawbacks:
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
