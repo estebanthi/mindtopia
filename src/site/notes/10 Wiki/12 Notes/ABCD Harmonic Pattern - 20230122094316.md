@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/abcd-harmonic-pattern-20230122094316/"}
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/abcd-harmonic-pattern-20230122094316/","tags":["wiki/meta/random"]}
 ---
 
 # ABCD Harmonic Pattern
