@@ -16,5 +16,5 @@ The air is set in motion by the descent of the intake piston, and is accelerated
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
