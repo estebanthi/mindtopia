@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/casinos-bonuses-theory-20230129064440/","tags":["my-thinking, need-work"]}
+aliases: Casinos Bonuses Theory
+created: 20230129064450
+dg-publish: true
+tags:
+- wiki/my-thinking
+- wiki/meta/favorite
+updated: 20230129064450
 ---
-
 # Casinos Bonuses Theory
 ---
 It's mathematically possible to have an edge over [[Casino\|Casinos]] giving bonuses.
