@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-infringement-20230123105215/"}
+aliases: Aeronautical Infringement
+created: 20230123105223
+dg-publish: true
+tags: []
+updated: 20230123105223
 ---
-
 # Aeronautical Infringement
 ---
 This is a voluntary deviation from aeronautical rules which gives rise to an official report.
