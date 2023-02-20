@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/association-principle-20230127080455/"}
+aliases: Association Principle
+created: 20230127080502
+dg-publish: true
+tags: []
+updated: 20230127080502
 ---
-
 # Association Principle
 ---
 The association principle is a [[Cognitive Bias\|Cognitive Bias]]. The principle is that we give attributes to things because of the context.
