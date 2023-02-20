@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/barrier-triangle-20230129063551/"}
+aliases: Barrier Triangle
+created: 20230129063554
+dg-publish: true
+tags: []
+updated: 20230129063554
 ---
-
 # Barrier Triangle
 ---
 According to [[The Elliott Wave Theory\|The Elliott Wave Theory]], a barrier triangle is a chart pattern that forms when the market is consolidating, or moving sideways, and price is trapped between two converging trendlines. The pattern is named "barrier triangle" because the two trendlines act as a barrier that prevents price from breaking out in either direction.
