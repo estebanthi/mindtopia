@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-pneumatic-circuit-20230124101652/"}
+aliases: Aeronautical Pneumatic Circuit
+created: 20230124101700
+dg-publish: true
+tags: []
+updated: 20230124101700
 ---
-
 # Aeronautical Pneumatic Circuit
 ---
 The aeronautical pneumatic circuit is the circuit powering the [[100 Zettelkasten/Gyroscope\|Gyroscopes]]. We find two types of pneumatic circuits:
@@ -17,5 +20,5 @@ When a [[Vacuum Pump\|Vacuum Pump]] isn't working or a [[Venturi\|Venturi]] is i
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
