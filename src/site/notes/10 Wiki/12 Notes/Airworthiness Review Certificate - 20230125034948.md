@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/airworthiness-review-certificate-20230125034948/"}
+aliases: Airworthiness Review Certificate, ARC
+created: 20230125034951
+dg-publish: true
+tags: []
+updated: 20230125034951
 ---
-
 # Airworthiness Review Certificate
 ---
 An Airworthiness Review Certificate (ARC) is a document issued by a government aviation authority, such as the [[Federal Aviation Administration\|Federal Aviation Administration]] (FAA) in the United States, that certifies that an aircraft is in compliance with the applicable airworthiness regulations and is safe to operate.
