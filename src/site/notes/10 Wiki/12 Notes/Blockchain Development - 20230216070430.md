@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/blockchain-development-20230216070430/"}
+aliases: Blockchain Development
+created: 20230216070435
+dg-publish: true
+tags: []
+updated: 20230216070435
 ---
-
 # Blockchain Development
 ---
 It's not so hard to develop a [[10 Wiki/12 Notes/Blockchain - 20230216070315\|Blockchain]]. It can be done in a few lines of [[100 Zettelkasten/Python\|Python]] code. However, there are some questions to answer before thinking about creating a blockchain.
