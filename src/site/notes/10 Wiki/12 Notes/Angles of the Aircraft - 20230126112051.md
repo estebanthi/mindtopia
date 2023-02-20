@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/angles-of-the-aircraft-20230126112051/"}
+aliases: Angles of the Aircraft
+created: 20230126112106
+dg-publish: true
+tags: []
+updated: 20230126112106
 ---
-
 # Angles of the Aircraft
 ---
 There are several key angles of an aircraft that are important in determining its performance and stability. These include:
