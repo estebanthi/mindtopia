@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aircraft-station-license-20230125033821/"}
+aliases: Aircraft Station License, ASL
+created: 20230125033830
+dg-publish: true
+tags: []
+updated: 20230125033830
 ---
-
 # Aircraft Station License
 ---
 **ASL**. Certifies the conformity of the aircraft's radio equipment. 
