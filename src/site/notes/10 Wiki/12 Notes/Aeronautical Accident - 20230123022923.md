@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-accident-20230123022923/"}
+aliases: Aeronautical Accident
+created: 20230123022927
+dg-publish: true
+tags: []
+updated: 20230123022927
 ---
-
 # Aeronautical Accident
 ---
 It is an accident involving an [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft - 20230125033243]]. An accident can be an injury to a person on board or on the ground, a missing aircraft, or damage to an aircraft.
