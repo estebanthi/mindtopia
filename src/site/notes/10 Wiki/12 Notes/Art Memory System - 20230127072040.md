@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/art-memory-system-20230127072040/"}
+aliases: Art Memory System
+created: 20230127072102
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230127072102
 ---
-
 # Art Memory System
 ---
 This [[Memory System\|Memory System]] consists of placing several images on a painting, a drawing, a photograph, or a sculpture to remember them easily.
