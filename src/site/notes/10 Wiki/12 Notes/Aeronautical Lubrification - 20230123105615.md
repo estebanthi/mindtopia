@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-lubrification-20230123105615/"}
+aliases: Aeronautical Lubrification
+created: 20230123105621
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230123105621
 ---
-
 # Aeronautical Lubrification
 ---
 Aeronautical lubrification is used for many reasons:
@@ -30,5 +34,5 @@ There are some ways to know whether the lubrification is done correctly or not:
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
