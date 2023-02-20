@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/bloomberg-dollar-spot-index-20230216070647/"}
+aliases: Bloomberg Dollar Spot Index
+created: 20230216070653
+dg-publish: true
+tags: []
+updated: 20230216070653
 ---
-
 # Bloomberg Dollar Spot Index
 ---
 The **Bloomberg Dollar Spot Index** (BBDXY) tracks the performance of a basket of 10 global currencies against the U.S. dollar.
