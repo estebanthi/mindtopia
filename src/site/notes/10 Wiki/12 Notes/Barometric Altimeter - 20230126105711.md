@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/barometric-altimeter-20230126105711/"}
+aliases: Barometric Anemometer
+created: 20230126105718
+dg-publish: true
+tags: []
+updated: 20230126105718
 ---
-
 # Barometric Altimeter
 ---
 A barometric altimeter uses a sensor called a [[Barometer\|Barometer]] to measure the pressure of the [[Atmosphere\|Atmosphere]].
