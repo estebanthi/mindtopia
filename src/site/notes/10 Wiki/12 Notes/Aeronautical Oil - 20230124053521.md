@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aeronautical-oil-20230124053521/"}
+aliases: Aeronautical Oil
+created: 20230124053526
+dg-publish: true
+tags: []
+updated: 20230124053526
 ---
-
 # Aeronautical Oil
 ---
 Oil used in [[100 Zettelkasten/120 MOC/Aeronautics\|Aeronautics]] is a bit specific. It is classified in two types:
@@ -15,5 +18,5 @@ The grade of an oil represents its viscosity. As a rule of thumb, one should use
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[Aerotechnics\|Aerotechnics]]
+Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
 References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
