@@ -21,5 +21,5 @@ The departure briefing is executed just before taking off. It is composed of:
 
 ###### META
 Status:: #wiki/notes/mature
-Plantations:: [[Navigation\|Navigation]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Navigation - 20230221103603\|Navigation - 20230221103603]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
