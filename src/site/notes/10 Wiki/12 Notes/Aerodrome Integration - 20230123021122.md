@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/aerodrome-integration-20230123021122/","tags":["wiki/meta/random"]}
+aliases: Aerodrome Integration
+created: 20230123021127
+dg-publish: true
+tags:
+- wiki/meta/random
+updated: 20230123021127
 ---
-
 # Aerodrome Integration
 ---
 The [[Aerodrome\|Aerodrome]] integration consists of entering an aerodrome and [[Landing\|Landing]].
@@ -22,4 +26,4 @@ The vertical is done above the highest of the runway turns. 500ft is a good marg
 ###### META
 Status:: #wiki/notes/germinating 
 Plantations:: [[10 Wiki/13 Plantations/Aerodrome Traffic - 20230123021751\|Aerodrome Traffic]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
