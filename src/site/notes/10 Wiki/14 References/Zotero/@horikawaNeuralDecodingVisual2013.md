@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/horikawa-neural-decoding-visual2013/","tags":["wiki/references/article"]}
+aliases: Neural Decoding of Visual Imagery During Sleep
+dg-publish: true
+created: 20230117105013
+modified: 20230117105019
+tags: wiki/references/article 
 ---
-
 # Neural Decoding of Visual Imagery During Sleep
 ---
 This paper talks about an experiment conducted to decode the content of dreams using [[fMRI\|fMRI]].
@@ -30,7 +33,7 @@ Status:: #wiki/references/zotero/article
 Related:: [[100 Zettelkasten/Dream\|Dreams]]
 
 Link:: https://www.science.org/doi/10.1126/science.1234330
-ZoteroLink:: zotero://select/items/@horikawaNeuralDecodingVisual2013
+ZoteroLink:: [@horikawaNeuralDecodingVisual2013](zotero://select/items/@horikawaNeuralDecodingVisual2013)
 Author:: [[T. Horikawa, M. Tamaki, Y. Miyawaki, Y. Kamitani\|T. Horikawa, M. Tamaki, Y. Miyawaki, Y. Kamitani]]
 Year:: 2013
 
