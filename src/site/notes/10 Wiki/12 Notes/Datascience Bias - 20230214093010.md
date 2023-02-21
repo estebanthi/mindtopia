@@ -23,5 +23,5 @@ There are different types of bias in data science, including:
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Datascience Metrics\|Datascience Metrics]]
-References:: [[10 Wiki/14 References/Goodreads/Mastering Machine Learning with scikit-learn - 20230122071907\|Mastering Machine Learning with scikit-learn]]
+Plantations:: [[10 Wiki/13 Plantations/Data Science Metrics - 20230221095821\|Data Science Metrics - 20230221095821]]
+References:: [[10 Wiki/14 References/Books/Mastering Machine Learning with scikit-learn - 20230122071907\|Mastering Machine Learning with scikit-learn]]
