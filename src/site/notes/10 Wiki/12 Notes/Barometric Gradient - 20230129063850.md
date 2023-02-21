@@ -1,10 +1,7 @@
 ---
-aliases: Barometric Gradient
-created: 20230129063858
-dg-publish: true
-tags: []
-updated: 20230129063858
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/barometric-gradient-20230129063850/"}
 ---
+
 # Barometric Gradient
 ---
 The barometric gradient refers to the difference in air pressure between two points. It is calculated as the difference in atmospheric pressure between two points divided by the distance between them.
@@ -19,5 +16,5 @@ The barometric gradient can also be used in various scientific and engineering a
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Meteorology\|Meteorology]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Meteorology - 20230221103137\|Meteorology]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
