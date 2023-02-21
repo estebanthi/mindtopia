@@ -2,8 +2,7 @@
 aliases: Light Aviation Combustion
 created: 20230123023507
 dg-publish: true
-tags:
-- wiki/meta/random
+tags: []
 updated: 20230123023507
 ---
 # Light Aviation Combustion
