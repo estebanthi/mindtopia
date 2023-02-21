@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/red31415-where-can-find2023/","tags":["wiki/references/reddit"]}
+aliases: Where can I find knowledge gardens?
+dg-publish: true
+created: 20230117103801
+modified: 20230117103807
+tags: wiki/references/reddit 
 ---
-
 # Where can I find knowledge gardens?
 ---
 A Reddit post being a reference to find [[Digital Garden\|Digital Gardens]] such as this one.
@@ -21,7 +24,7 @@ Status:: #wiki/references/zotero/online
 Related:: [[Digital Garden\|Digital Garden]]
 
 Link:: www.reddit.com/r/ObsidianMD/comments/1075n53/where_can_i_find_knowledge_gardens/
-ZoteroLink:: zotero://select/items/@red31415WhereCanFind2023
+ZoteroLink:: [@red31415WhereCanFind2023](zotero://select/items/@red31415WhereCanFind2023)
 Author:: [[red31415\|red31415]]
 Year:: 2023
 
