@@ -2,8 +2,7 @@
 aliases: Bernoulli's Equation
 created: 20230214092454
 dg-publish: true
-tags:
-- wiki/meta/random
+tags: []
 updated: 20230214092454
 ---
 # Bernoulli's Equation
@@ -22,11 +21,11 @@ Where:
 
 This equation states that the total energy of the fluid (sum of pressure, kinetic energy and potential energy) remains constant along a streamline in a steady flow of an ideal fluid with no viscosity or heat transfer.
 
-The Bernoulli's equation has many applications in [[100 Zettelkasten/120 MOC/Fluid Mechanics\|Fluid Mechanics]], including in the design of [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft]] wings, pipes, and turbines, and it can be used to understand the behavior of fluids in many different scenarios.
+The Bernoulli's equation has many applications in [[10 Wiki/13 Plantations/Fluid Mechanics - 20230221102456\|Fluid Mechanics - 20230221102456]], including in the design of [[10 Wiki/12 Notes/Aircraft - 20230125033243\|Aircraft]] wings, pipes, and turbines, and it can be used to understand the behavior of fluids in many different scenarios.
 
 
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Fluid Mechanics\|Fluid Mechanics]]
+Plantations:: [[10 Wiki/13 Plantations/Fluid Mechanics - 20230221102456\|Fluid Mechanics - 20230221102456]]
 References:: 
