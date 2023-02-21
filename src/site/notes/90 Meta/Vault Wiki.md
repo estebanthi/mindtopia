@@ -79,14 +79,18 @@ wiki/references/omdb/...
 wiki/references/zotero/...
 wiki/references/...
 
+wiki/courses/...
+wiki/course
+
+wiki/meta/my-thinking
+wiki/meta/favorite
+wiki/meta/random
+
 meta/need-work
 meta/working-on
-meta/my-thinking
 
 workflow
 idea
-contact
 
 dashboard
-hub
 index
