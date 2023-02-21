@@ -1,12 +1,7 @@
 ---
-aliases: Low Level Circuit
-created: 20230220114541
-dg-publish: true
-tags:
-- wiki/courses/ppl
-- wiki/meta/random
-updated: 20230220114541
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/low-level-circuit-20230220114534/","tags":["wiki/courses/ppl"]}
 ---
+
 # Low Level Circuit
 ---
 1. First turn 300ft
@@ -19,5 +14,5 @@ updated: 20230220114541
 
 ###### META
 Status:: #wiki/notes/embryo  
-Plantations:: 
+Plantations:: [[10 Wiki/13 Plantations/Aeronautics Mania - 20230221105420\|Aeronautics Mania - 20230221105420]]
 References:: 
