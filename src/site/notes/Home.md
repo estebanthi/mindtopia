@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/"}
+{"dg-publish":true,"permalink":"/home/","tags":["dashboard"]}
 ---
 
 # Home
