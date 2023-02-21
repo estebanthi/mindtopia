@@ -30,5 +30,5 @@ In addition, during twilight, the information is unreliable as the wave reflects
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[Avionic\|Avionic]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Avionic - 20230221094041\|Avionic - 20230221094041]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
