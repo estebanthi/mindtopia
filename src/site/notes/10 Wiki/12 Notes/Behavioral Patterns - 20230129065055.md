@@ -1,10 +1,7 @@
 ---
-aliases: Behavioral Patterns
-created: 20230129065100
-dg-publish: true
-tags: []
-updated: 20230129065100
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/behavioral-patterns-20230129065055/","tags":["wiki/meta/random"]}
 ---
+
 # Behavioral Patterns
 ---
 These are [[100 Zettelkasten/Design Patterns\|Design Patterns]] used to maintain effective communication and manage responsibilities between objects.
@@ -26,5 +23,5 @@ There are different types:
 
 ###### META
 Status:: #wiki/notes/mature
-Plantations:: [[100 Zettelkasten/Design Patterns\|Design Patterns]]
-References:: [[10 Wiki/14 References/Goodreads/Dive Into Design Patterns - 20230122071907\|Dive Into Design Patterns]]
+Plantations:: [[10 Wiki/13 Plantations/Design Patterns - 20230221095926\|Design Patterns]]
+References:: [[10 Wiki/14 References/Books/Dive Into Design Patterns - 20230122071907\|Dive Into Design Patterns]]
