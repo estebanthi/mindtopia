@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/achieving-navigation-20230122115853/","tags":["wiki/meta/random"]}
+aliases: Achieving Navigation
+created: 20230122115900
+dg-publish: true
+tags: []
+updated: 20230122115900
 ---
-
 # Achieving Navigation
 ---
-From the car park to the destination [[Aerodrome\|Aerodrome]], we have to achieve [[Navigation\|Navigation]]:
+From the car park to the destination [[Aerodrome\|Aerodrome]], we have to achieve [[10 Wiki/13 Plantations/Navigation - 20230221103603\|Navigation - 20230221103603]]:
 - **At the car park**: set up of radio and radio navigation means, study of the taxiway
 - **Before alignment**: [[10 Wiki/12 Notes/Departure Briefing - 20230122114935\|Departure Briefing]]
 - **During climb**: climb checklist
@@ -18,5 +21,5 @@ From the car park to the destination [[Aerodrome\|Aerodrome]], we have to achiev
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Navigation\|Navigation]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Navigation - 20230221103603\|Navigation - 20230221103603]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
