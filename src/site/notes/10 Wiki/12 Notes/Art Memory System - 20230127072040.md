@@ -14,5 +14,5 @@ This [[Memory System\|Memory System]] consists of placing several images on a pa
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[100 Zettelkasten/120 MOC/Memory\|Memory]]
-References:: [[10 Wiki/14 References/Goodreads/Unlimited Memory - 20230122071906\|Unlimited Memory]]
+Plantations:: [[10 Wiki/13 Plantations/Memory - 20230221103059\|Memory - 20230221103059]]
+References:: [[10 Wiki/14 References/Books/Unlimited Memory - 20230122071906\|Unlimited Memory]]
