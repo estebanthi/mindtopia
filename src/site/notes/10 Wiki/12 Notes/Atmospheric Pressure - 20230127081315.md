@@ -1,11 +1,7 @@
 ---
-aliases: Atmospheric Pressure
-created: 20230127081321
-dg-publish: true
-tags:
-- wiki/meta/random
-updated: 20230127081321
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/atmospheric-pressure-20230127081315/"}
 ---
+
 # Atmospheric Pressure
 ---
 Atmospheric pressure, also known as barometric pressure, is the force exerted on the [[100 Zettelkasten/Earth\|Earth]]'s surface by the weight of the atmosphere.
@@ -21,5 +17,5 @@ The variation of pressure with altitude is not linear but for low level flights,
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Meteorology\|Meteorology]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Meteorology - 20230221103137\|Meteorology - 20230221103137]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
