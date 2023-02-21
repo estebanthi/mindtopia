@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/planting-your-digital/","tags":["wiki/references/article"]}
+aliases: 🪴 Planting Your Digital Garden
+dg-publish: true
+created: 20230117105102
+modified: 20230117105110
+tags: wiki/references/article 
 ---
-
 # 🪴 Planting Your Digital Garden
 ---
 A blog post to get started with [[Digital Garden\|Digital Gardens]].
@@ -29,7 +32,7 @@ Status:: #wiki/references/zotero/online
 Related:: [[Digital Garden\|Digital Garden]]
 
 Link:: https://www.conordewey.com/blog/on-digital-gardening/
-ZoteroLink:: zotero://select/items/@PlantingYourDigital
+ZoteroLink:: [@PlantingYourDigital](zotero://select/items/@PlantingYourDigital)
 Author:: [[Conor Dewey\|Conor Dewey]]
 Year:: 2022
 
