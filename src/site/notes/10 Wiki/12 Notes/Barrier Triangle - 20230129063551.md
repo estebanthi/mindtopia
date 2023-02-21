@@ -26,5 +26,5 @@ A barrier triangle can be defined according to some criteria:
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Elliott Wave Theory\|Elliott Wave Theory]]
-References:: [[10 Wiki/14 References/Goodreads/The Elliott Wave Principle - 0932750052\|The Elliott Wave Principle]]
+Plantations:: [[10 Wiki/13 Plantations/Elliott Wave Theory - 20230221100113\|Elliott Wave Theory - 20230221100113]]
+References:: [[10 Wiki/14 References/Books/The Elliott Wave Principle - 0932750052\|The Elliott Wave Principle]]
