@@ -17,5 +17,5 @@ This allows for secure communication because a message can be encrypted using th
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Cryptography\|Cryptography]]
-References:: [[10 Wiki/14 References/Goodreads/The Basics of Bitcoins and Blockchains - 20230122071906\|The Basics of Bitcoins and Blockchains]]
+Plantations:: [[10 Wiki/13 Plantations/Cryptography - 20230221095634\|Cryptography - 20230221095634]]
+References:: [[10 Wiki/14 References/Books/The Basics of Bitcoins and Blockchains - 20230122071906\|The Basics of Bitcoins and Blockchains]]
