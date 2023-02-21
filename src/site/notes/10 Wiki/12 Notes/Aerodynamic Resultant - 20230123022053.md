@@ -2,7 +2,8 @@
 aliases: Aerodynamic Resultant
 created: 20230123022101
 dg-publish: true
-tags: []
+tags:
+- wiki/meta/random
 updated: 20230123022101
 ---
 # Aerodynamic Resultant
@@ -25,5 +26,5 @@ $$R = P_dSC$$
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Fluid Mechanics\|Fluid Mechanics]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Fluid Mechanics - 20230221102456\|Fluid Mechanics - 20230221102456]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
