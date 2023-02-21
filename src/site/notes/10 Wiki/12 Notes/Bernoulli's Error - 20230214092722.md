@@ -1,10 +1,7 @@
 ---
-aliases: Bernoulli's Error
-created: 20230214092728
-dg-publish: true
-tags: []
-updated: 20230214092728
+{"dg-publish":true,"permalink":"/10-wiki/12-notes/bernoulli-s-error-20230214092722/"}
 ---
+
 # Bernoulli's Error
 ---
 This is a psychological bias related to the utility.
@@ -16,5 +13,5 @@ This is a psychological bias related to the utility.
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: 
-References:: [[10 Wiki/14 References/Goodreads/Thinking, Fast and Slow - 0374275637\|Thinking]]
+Plantations:: [[10 Wiki/13 Plantations/Cognitive Bias - 20230221095209\|Cognitive Bias - 20230221095209]]
+References:: [[10 Wiki/14 References/Books/Thinking, Fast and Slow - 0374275637\|Thinking]]
