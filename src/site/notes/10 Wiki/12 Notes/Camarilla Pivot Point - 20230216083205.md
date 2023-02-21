@@ -2,7 +2,8 @@
 aliases: Camarilla Pivot Point
 created: 20230216083214
 dg-publish: true
-tags: []
+tags:
+- wiki/meta/random
 updated: 20230216083214
 ---
 # Camarilla Pivot Point
@@ -27,5 +28,5 @@ _C – Closing Price, H – High, L – Low_
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Technical Indicators\|Technical Indicators]]
+Plantations:: [[10 Wiki/13 Plantations/Technical Indicators - 20230221104502\|Technical Indicators - 20230221104502]]
 References:: [[10 Wiki/14 References/Other/Babypips - 20230122084125\|Babypips]]
