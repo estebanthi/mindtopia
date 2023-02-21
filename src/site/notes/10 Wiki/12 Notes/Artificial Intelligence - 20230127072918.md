@@ -19,5 +19,5 @@ There are two main branches of AI research: narrow or weak AI, which is designed
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[100 Zettelkasten/120 MOC/Computer Science\|Computer Science]]
+Plantations:: [[10 Wiki/13 Plantations/Computer Science - 20230221095313\|Computer Science - 20230221095313]]
 References:: 
