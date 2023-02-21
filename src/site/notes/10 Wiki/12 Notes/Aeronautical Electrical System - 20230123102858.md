@@ -2,8 +2,7 @@
 aliases: Aeronautical Electrical System
 created: 20230123102905
 dg-publish: true
-tags:
-- wiki/meta/random
+tags: []
 updated: 20230123102905
 ---
 # Aeronautical Electrical System
@@ -73,4 +72,4 @@ Once a fault has been dealt with, the **B.A.D.** sequence is carried out:
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
