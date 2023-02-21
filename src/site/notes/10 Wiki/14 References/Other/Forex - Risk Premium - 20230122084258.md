@@ -12,7 +12,7 @@
 
 ###### META
 Status:: #wiki/references/reddit
-Related:: [[100 Zettelkasten/120 MOC/Trading\|Trading]]
+Related:: [[10 Wiki/13 Plantations/Trading - 20230221094234\|Trading - 20230221094234]]
 
 Link:: https://www.reddit.com/r/Forex/comments/z6v6za/risk_premium_building_a_foundation_for_trading/
 Author:: 
