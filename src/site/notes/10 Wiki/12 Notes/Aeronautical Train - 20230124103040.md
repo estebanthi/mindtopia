@@ -2,7 +2,8 @@
 aliases: Aeronautical Train
 created: 20230124103046
 dg-publish: true
-tags: []
+tags:
+- wiki/meta/random
 updated: 20230124103046
 ---
 # Aeronautical Train
@@ -21,4 +22,4 @@ In light aviation, we find 2 types of trains:
 ###### META
 Status:: #wiki/notes/germinating 
 Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics - 20230216083955]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
