@@ -2,8 +2,7 @@
 aliases: Approval for Return to Service
 created: 20230127071935
 dg-publish: true
-tags:
-- wiki/meta/random
+tags: []
 updated: 20230127071935
 ---
 # Approval for Return to Service
@@ -17,4 +16,4 @@ The approval for RTS is usually required before an aircraft or component can be 
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
