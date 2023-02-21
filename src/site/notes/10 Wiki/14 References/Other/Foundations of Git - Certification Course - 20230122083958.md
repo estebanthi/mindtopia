@@ -13,7 +13,7 @@
 
 ###### META
 Status:: #wiki/references/course
-Related:: [[100 Zettelkasten/120 MOC/Git\|Git]]
+Related:: [[Git\|Git]]
 
 Link:: https://learn.gitkraken.com/courses/git-foundations
 Author:: [[GitKraken\|GitKraken]]
