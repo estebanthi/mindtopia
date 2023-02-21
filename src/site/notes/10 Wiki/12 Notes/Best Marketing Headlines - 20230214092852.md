@@ -20,5 +20,5 @@ updated: 20230214092857
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[100 Zettelkasten/120 MOC/Marketing\|Marketing]]
-References:: [[10 Wiki/14 References/Goodreads/Ultimate Guide to Google AdWords - 1599180308\|Ultimate Guide to Google AdWords]]
+Plantations:: [[10 Wiki/13 Plantations/Marketing - 20230221102922\|Marketing - 20230221102922]]
+References:: [[10 Wiki/14 References/Books/Ultimate Guide to Google AdWords - 1599180308\|Ultimate Guide to Google AdWords]]
