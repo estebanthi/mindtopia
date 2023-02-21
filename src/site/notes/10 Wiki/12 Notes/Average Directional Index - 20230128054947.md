@@ -7,7 +7,7 @@ updated: 20230128054951
 ---
 # Average Directional Index
 ---
-The Average Directional Index (ADX) is a technical indicator used in [[100 Zettelkasten/Technical Analysis\|Technical Analysis]] to measure the strength of a trend. It is used to determine whether a market is trending or non-trending and to measure the strength of a trend. It is a trend-following indicator, meaning that it is designed to indicate the presence of a trend rather than its direction.
+The Average Directional Index (ADX) is a technical indicator used in [[10 Wiki/13 Plantations/Technical Analysis - 20230221094216\|Technical Analysis - 20230221094216]] to measure the strength of a trend. It is used to determine whether a market is trending or non-trending and to measure the strength of a trend. It is a trend-following indicator, meaning that it is designed to indicate the presence of a trend rather than its direction.
 
 The ADX is calculated using three separate lines: the positive directional indicator (+DI), the negative directional indicator (-DI), and the ADX line.
 
@@ -24,5 +24,5 @@ The ADX is not a signal generator but a gauge of trend strength. It can be used 
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Technical Indicators\|Technical Indicators]]
+Plantations:: [[10 Wiki/13 Plantations/Technical Indicators - 20230221104502\|Technical Indicators - 20230221104502]]
 References:: [[10 Wiki/14 References/Other/Babypips - 20230122084125\|Babypips]]
