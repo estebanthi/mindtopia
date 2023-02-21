@@ -2,7 +2,8 @@
 aliases: Ground to Air Signals
 created: 20230123012747
 dg-publish: true
-tags: []
+tags:
+- wiki/meta/random
 updated: 20230123012747
 ---
 # Ground to Air Signals
@@ -21,4 +22,4 @@ Here are the signals to know:
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
