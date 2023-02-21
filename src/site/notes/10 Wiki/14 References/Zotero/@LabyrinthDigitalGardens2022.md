@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/labyrinth-digital-gardens2022/","tags":["wiki/references/article"]}
+aliases: A Labyrinth of Digital Gardens 🌱
+dg-publish: true
+created: 20230117105504
+modified: 20230117105511
+tags: wiki/references/article 
 ---
-
 # A Labyrinth of Digital Gardens 🌱
 ---
 A list of nice [[Digital Garden\|Digital Gardens]]. Nearly all are made with [[Obsidian\|Obsidian]].
@@ -20,7 +23,7 @@ Status:: #wiki/references/zotero/online
 Related:: [[Digital Garden\|Digital Garden]]
 
 Link:: https://lukerambling.de/posts/labyrinth-of-digital-gardens/
-ZoteroLink:: zotero://select/items/@LabyrinthDigitalGardens2022
+ZoteroLink:: [@LabyrinthDigitalGardens2022](zotero://select/items/@LabyrinthDigitalGardens2022)
 Author::
 Year:: 2022
 
