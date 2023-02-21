@@ -2,8 +2,7 @@
 aliases: Carburettor Heat
 created: 20230216083700
 dg-publish: true
-tags:
-- wiki/meta/random
+tags: []
 updated: 20230216083700
 ---
 # Carburettor Heat
@@ -18,5 +17,5 @@ While carburetor heat can be effective at preventing ice buildup, it can also ca
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/120 MOC/Mechanics\|Mechanics]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Mechanics - 20230221102941\|Mechanics - 20230221102941]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
