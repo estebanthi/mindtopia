@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/rldkyce2022-recap5612023/","tags":["wiki/references/article"]}
+aliases: '2022 Recap: +561%, + $168,366. This year in January I had my "Aha" moment where my 1.5 years of studying and practicing "Clicked" and I was able to find my edge and execute it consistently since. Here is how I think I did it. :)'
+dg-publish: true
+created: 20230117105012
+modified: 20230117105021
+tags: wiki/references/article 
 ---
-
 # 2022 Recap: +561%, + $168,366. This year in January I had my "Aha" moment where my 1.5 years of studying and practicing "Clicked" and I was able to find my edge and execute it consistently since. Here is how I think I did it. :)
 ---
-[[rldkyce\|rldkyce]] shares the steps that helped him to make 561% in 2022 from [[100 Zettelkasten/120 MOC/Trading\|Trading]].
+[[rldkyce\|rldkyce]] shares the steps that helped him to make 561% in 2022 from [[10 Wiki/13 Plantations/Trading - 20230221094234\|Trading - 20230221094234]].
 
 ## Stocks in "Play"
 Interesting hindsights about the fact that it's important to pick stocks having similar [[Price Action\|Price Action]]. Well, I think it depends, as it doesn't allow to share the risk among positions.
 
 ## Journaling is Important
-It's not a secret, if you want to be successful in [[100 Zettelkasten/120 MOC/Trading\|Trading]], you have to journal.
+It's not a secret, if you want to be successful in [[10 Wiki/13 Plantations/Trading - 20230221094234\|Trading - 20230221094234]], you have to journal.
 
 ## How to Find a [[100 Zettelkasten/Trading Edge\|Trading Edge]]
 In short:
@@ -33,7 +36,7 @@ Status:: #wiki/references/zotero/online
 Related:: [[100 Zettelkasten/Trading System\|Trading System]]
 
 Link:: www.reddit.com/r/Daytrading/comments/106zs54/2022_recap_561_168366_this_year_in_january_i_had/
-ZoteroLink:: zotero://select/items/@rldkyce2022Recap5612023
+ZoteroLink:: [@rldkyce2022Recap5612023](zotero://select/items/@rldkyce2022Recap5612023)
 Author:: [[rldkyce\|rldkyce]]
 Year:: 2022
 
