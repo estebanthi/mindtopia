@@ -20,4 +20,4 @@ Once the aircraft is found to be in compliance with the regulations, the aviatio
 ###### META
 Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Aeronautics Regulation - 20230215074203\|Aeronautics Regulation - 20230215074203]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
