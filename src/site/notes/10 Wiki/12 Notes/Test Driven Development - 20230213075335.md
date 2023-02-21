@@ -20,5 +20,5 @@ updated: 20230213075340
 
 ###### META
 Status:: #wiki/notes/germinating 
-Plantations:: [[100 Zettelkasten/120 MOC/Software Testing\|Software Testing]]
-References:: [[10 Wiki/14 References/ILOG - 20230213025734\|ILOG]], [[10 Wiki/14 References/Goodreads/Code Complete - 0735619670\|Code Complete]]
+Plantations:: [[10 Wiki/13 Plantations/Software Testing - 20230221103934\|Software Testing - 20230221103934]]
+References:: [[10 Wiki/14 References/Other/ILOG - 20230213025734\|ILOG]], [[10 Wiki/14 References/Books/Code Complete - 0735619670\|Code Complete]]
