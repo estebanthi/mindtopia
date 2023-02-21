@@ -1,12 +1,7 @@
 ---
-aliases: How to Play the D Chord on Guitar
-dg-publish: true
-tags:
-- wiki/references/need-work 
-- wiki/courses/guitar
-created: 20230221105658
-modified: 20230221105707
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/justinguitar-how-play-chord2020/","tags":["wiki/references/need-work","wiki/courses/guitar"]}
 ---
+
 # How to Play the D Chord on Guitar
 ---
 
