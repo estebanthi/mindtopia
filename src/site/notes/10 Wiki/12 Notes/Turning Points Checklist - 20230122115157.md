@@ -7,7 +7,7 @@ updated: 20230122115204
 ---
 # Turning Points Checklist
 ---
-Checklist used for each turning point during a [[Navigation\|Navigation]]. It is composed of:
+Checklist used for each turning point during a [[10 Wiki/13 Plantations/Navigation - 20230221103603\|Navigation - 20230221103603]]. It is composed of:
 - **TOP**: note the time of passage or take a top.
 - **CAP**: take the new course.
 - **ALTITUDE**: check altitude or change of level.
@@ -22,5 +22,5 @@ Checklist used for each turning point during a [[Navigation\|Navigation]]. It is
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[Navigation\|Navigation]]
-References:: [[10 Wiki/14 References/Goodreads/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
+Plantations:: [[10 Wiki/13 Plantations/Navigation - 20230221103603\|Navigation - 20230221103603]]
+References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
