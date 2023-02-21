@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/12-notes/abstract-factory-20230122113146/"}
+aliases: Abstract Factory
+created: 20230122113146
+dg-publish: true
+tags: []
+updated: 20230122113146
 ---
-
 # Abstract Factory
 ---
 This is a pattern that allows you to create families of related objects without specifying the concrete classes.
@@ -24,5 +27,5 @@ For each product variant, a factory is created according to the interface define
 
 ###### META
 Status:: #wiki/notes/mature 
-Plantations:: [[100 Zettelkasten/Creational Patterns\|Creational Patterns]]
-References:: [[10 Wiki/14 References/Goodreads/Dive Into Design Patterns - 20230122071907\|Dive Into Design Patterns]]
+Plantations:: [[10 Wiki/13 Plantations/Creational Patterns - 20230221095426\|Creational Patterns - 20230221095426]]
+References:: [[10 Wiki/14 References/Books/Dive Into Design Patterns - 20230122071907\|Dive Into Design Patterns]]
