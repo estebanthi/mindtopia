@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/13-plantations/aeronautics-regulation-20230215074203/"}
+aliases: Aeronautics Regulation
+dg-publish: true
+created: 20230215074212
+updated: 20230215074212
 ---
-
 # Aeronautics Regulation
 ---
 
