@@ -51,7 +51,7 @@ His theories will no doubt continue to inspire and influence many for years to c
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Cosmology\|Cosmology]], [[Religion\|Religion]]
 
 Link:: https://www.goodreads.com/book/show/40277241-brief-answers-to-the-big-questions
