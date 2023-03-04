@@ -54,7 +54,7 @@ The science inside is admirable and very well explained using examples, making i
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Theory of Evolution\|Theory of Evolution]]
 
 Link:: https://www.goodreads.com/book/show/4005310-why-evolution-is-true
