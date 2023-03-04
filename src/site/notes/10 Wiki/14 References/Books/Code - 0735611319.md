@@ -25,7 +25,7 @@ modified: 20230122082410
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: 
 
 Link:: 
