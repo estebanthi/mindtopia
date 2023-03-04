@@ -39,7 +39,7 @@ And the best of all is if you program in Java, because this book goes deep into 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Design Patterns\|Design Patterns]]
 
 Link:: https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns
