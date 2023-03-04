@@ -36,7 +36,7 @@ As I said, the book can be summarized very well in a few lines. On the other han
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: 
 
 Link:: https://www.goodreads.com/book/show/1633.Getting_Things_Done
