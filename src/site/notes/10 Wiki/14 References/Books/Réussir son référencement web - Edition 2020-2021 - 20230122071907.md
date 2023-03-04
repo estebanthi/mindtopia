@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[SEO\|SEO]]
 
 Link:: https://www.goodreads.com/book/show/52961282-r-ussir-son-r-f-rencement-web---edition-2020-2021
