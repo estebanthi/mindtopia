@@ -40,7 +40,7 @@ This book is a good book if you want to learn machine learning with Python. It t
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Machine Learning - 20230221102815\|Machine Learning - 20230221102815]], [[100 Zettelkasten/Python\|Python]]
 
 Link:: https://www.goodreads.com/book/show/23828418-mastering-machine-learning-with-scikit-learn
