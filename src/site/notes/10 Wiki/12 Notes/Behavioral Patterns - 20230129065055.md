@@ -7,7 +7,7 @@
 These are [[100 Zettelkasten/Design Patterns\|Design Patterns]] used to maintain effective communication and manage responsibilities between objects.
 
 There are different types:
-- [[100 Zettelkasten/Chain of Responsibility\|Chain of Responsibility]]
+- [[Chain of Responsibility\|Chain of Responsibility]]
 - [[100 Zettelkasten/Command\|Command]]
 - [[100 Zettelkasten/Iterator\|Iterator]]
 - [[100 Zettelkasten/Mediator\|Mediator]]
