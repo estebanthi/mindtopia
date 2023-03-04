@@ -51,7 +51,7 @@ It is a great choice for anyone who is looking to deepen their understanding of 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Solar System\|Solar System]]
 
 Link:: https://www.goodreads.com/book/show/9562056-wonders-of-the-solar-system
