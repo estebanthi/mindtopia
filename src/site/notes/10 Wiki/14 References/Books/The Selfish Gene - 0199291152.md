@@ -53,7 +53,7 @@ It is incredibly interesting because it explains a lot of the behaviors we can s
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Selfish Gene Theory\|Selfish Gene Theory]] 
 
 Link:: https://www.goodreads.com/book/show/61535.The_Selfish_Gene
