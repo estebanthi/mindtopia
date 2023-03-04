@@ -49,7 +49,7 @@ I highly recommend this book to everyone wanting to discover how our universe wo
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Theory of Relativity\|Theory of Relativity]]
 
 Link:: https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time
