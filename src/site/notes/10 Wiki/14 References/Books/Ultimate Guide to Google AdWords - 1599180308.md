@@ -22,12 +22,13 @@ modified: 20230122071942
 ## Related Notes
 - [[10 Wiki/12 Notes/A and B Testing - 20230122093959\|A and B Testing - 20230122093959]]
 - [[10 Wiki/12 Notes/Best Marketing Headlines - 20230214092852\|Best Marketing Headlines - 20230214092852]]
+- [[10 Wiki/12 Notes/Clickthrough Rate - 20230302071603\|Clickthrough Rate - 20230302071603]]
 
 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Google AdWords - 20230221102659\|Google AdWords - 20230221102659]]
 
 Link:: https://www.goodreads.com/book/show/310417.Ultimate_Guide_to_Google_AdWords
