@@ -21,7 +21,7 @@ Year::
 Priority:: 1
 
 Consumed:: true
-Reconsume:: true
+Reconsume:: false
 
 Rating:: 8
 Favorite:: 
