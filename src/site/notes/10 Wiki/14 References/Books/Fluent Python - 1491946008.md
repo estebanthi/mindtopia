@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Python\|Python]]
 
 Link:: https://www.goodreads.com/book/show/22800567-fluent-python
