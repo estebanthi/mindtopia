@@ -58,7 +58,7 @@ I would recommend it, but don’t be afraid to skip some sections or anecdotes t
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Psychology - 20230221103826\|Psychology - 20230221103826]]
 
 Link:: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
