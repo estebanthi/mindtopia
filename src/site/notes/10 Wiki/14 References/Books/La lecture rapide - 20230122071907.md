@@ -28,7 +28,7 @@ I rarely give a 10 to a book, but this one literally changed my life.
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Speed Reading\|Speed Reading]]
 
 Link:: https://www.goodreads.com/book/show/17985258-la-lecture-rapide
