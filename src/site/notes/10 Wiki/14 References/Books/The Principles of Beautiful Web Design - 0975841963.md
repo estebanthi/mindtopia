@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Design\|Design]]
 
 Link:: https://www.goodreads.com/book/show/258823.The_Principles_of_Beautiful_Web_Design
