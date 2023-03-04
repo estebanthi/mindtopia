@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Lucid Dreaming - 20230221102754\|Lucid Dreaming - 20230221102754]]
 
 Link:: https://www.goodreads.com/book/show/316781.Exploring_the_World_of_Lucid_Dreaming
