@@ -15,13 +15,13 @@ Currently, most of my time is spent at school as I'm still a student.
 
 
 ## Content I plan to Consume
-| File                                                                                                                                                          | Type                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[10 Wiki/14 References/Books/How to Sell a Haunted House - 0593201264\|How to Sell a Haunted House - 0593201264]]                                         | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Books/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]]                                 | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Books/Black Holes and Baby Universes and Other Essays - 0553374117\|Black Holes and Baby Universes and Other Essays - 0553374117]] | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Books/Code - 0735611319\|Code - 0735611319]]                                                                                       | #wiki/references/goodreads |
-| [[10 Wiki/14 References/Books/Curious - 20230122082346\|Curious - 20230122082346]]                                                                         | #wiki/references/goodreads |
+| File                                                                                                                                                          | Type                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| [[10 Wiki/14 References/Books/How to Sell a Haunted House - 0593201264\|How to Sell a Haunted House - 0593201264]]                                         | #wiki/references/book |
+| [[10 Wiki/14 References/Books/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]]                                 | #wiki/references/book |
+| [[10 Wiki/14 References/Books/Black Holes and Baby Universes and Other Essays - 0553374117\|Black Holes and Baby Universes and Other Essays - 0553374117]] | #wiki/references/book |
+| [[10 Wiki/14 References/Books/Code - 0735611319\|Code - 0735611319]]                                                                                       | #wiki/references/book |
+| [[10 Wiki/14 References/Books/Curious - 20230122082346\|Curious - 20230122082346]]                                                                         | #wiki/references/book |
 
 
 ## Current [[Zettelkasten\|ZK]] Work
