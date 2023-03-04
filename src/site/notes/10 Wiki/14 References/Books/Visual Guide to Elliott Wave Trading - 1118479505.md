@@ -44,7 +44,7 @@ Overall, this book is very good. I think it’s not necessary to read Elliott Wa
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Elliott Waves\|Elliott Waves]]
 
 Link:: https://www.goodreads.com/book/show/17062836-visual-guide-to-elliott-wave-trading
