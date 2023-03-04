@@ -47,7 +47,7 @@ I think this book is a must for the students, or more generally for everyone wan
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Memory - 20230221103059\|Memory - 20230221103059]]
 
 Link:: https://www.goodreads.com/book/show/20958539-unlimited-memory
