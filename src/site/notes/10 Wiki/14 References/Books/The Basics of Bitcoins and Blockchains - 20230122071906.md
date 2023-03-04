@@ -51,7 +51,7 @@ It’s still interesting even if you don’t care about the technology behind Bi
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Blockchain\|Blockchain]], [[10 Wiki/12 Notes/Bitcoin - 20230215071646\|Bitcoin - 20230215071646]]
 
 Link:: https://www.goodreads.com/book/show/40541157-the-basics-of-bitcoins-and-blockchains
