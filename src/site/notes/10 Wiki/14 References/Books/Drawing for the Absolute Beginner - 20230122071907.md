@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Drawing\|Drawing]]
 
 Link:: https://www.goodreads.com/book/show/11773029-drawing-for-the-absolute-beginner
