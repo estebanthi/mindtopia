@@ -55,7 +55,7 @@ In short, this book is fun to read if you are a complete beginner, and can help 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/Python\|Python]]
 
 Link:: https://www.goodreads.com/book/show/22514127-automate-the-boring-stuff-with-python
