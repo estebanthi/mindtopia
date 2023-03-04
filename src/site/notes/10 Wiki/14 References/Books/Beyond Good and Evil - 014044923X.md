@@ -40,7 +40,7 @@ For me, I don’t regret having read this book, but I’m not going to read Niet
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Philosophy\|Philosophy]]
 
 Link:: https://www.goodreads.com/book/show/12321.Beyond_Good_and_Evil
