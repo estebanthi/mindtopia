@@ -20,6 +20,8 @@ updated: 20230215074212
 - [[10 Wiki/12 Notes/Alert Service - 20230125035149\|Alert Service - 20230125035149]]
 - [[10 Wiki/12 Notes/Approval for Return to Service - 20230127071926\|Approval for Return to Service - 20230127071926]]
 - [[10 Wiki/12 Notes/ASFC - 20230127073205\|ASFC - 20230127073205]]
+- [[10 Wiki/12 Notes/Certificate of Airworthiness - 20230228090419\|Certificate of Airworthiness - 20230228090419]]
+- [[10 Wiki/12 Notes/Certificate of Registration - 20230228090545\|Certificate of Registration - 20230228090545]]
 - [[10 Wiki/12 Notes/Ground to Air Signals - 20230123012741\|Ground to Air Signals - 20230123012741]]
 
 
