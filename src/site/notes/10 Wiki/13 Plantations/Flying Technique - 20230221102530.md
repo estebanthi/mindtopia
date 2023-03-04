@@ -14,6 +14,7 @@ updated: 20230221102533
 - [[10 Wiki/12 Notes/Angles of the Aircraft - 20230126112051\|Angles of the Aircraft - 20230126112051]]
 - [[10 Wiki/12 Notes/Attitude - 20230128053353\|Attitude - 20230128053353]]
 - [[10 Wiki/12 Notes/Base Factor - 20230129064054\|Base Factor - 20230129064054]]
+- [[10 Wiki/12 Notes/Centering of the Aircraft - 20230228090117\|Centering of the Aircraft - 20230228090117]]
 
 
 
