@@ -36,7 +36,7 @@ If you don’t care knowing the opinions and mindset of Mike Horn, read it, or e
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: 
 
 Link:: https://www.goodreads.com/book/show/59083893-survivant-des-glaces
