@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[100 Zettelkasten/120 MOC/Money\|100 Zettelkasten/120 MOC/Money]], [[Business\|Business]]
 
 Link:: https://www.goodreads.com/book/show/32204700-tout-le-monde-n-a-pas-eu-la-chance-de-rater-ses-tudes
