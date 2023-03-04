@@ -18,6 +18,7 @@ All the data currently available is visible in the prices, which makes it possib
 ## Plants
 - [[10 Wiki/12 Notes/Bar Chart - 20230129035139\|Bar Chart - 20230129035139]]
 - [[10 Wiki/12 Notes/Breakout - 20230216071835\|Breakout - 20230216071835]]
+- [[10 Wiki/13 Plantations/Chart Patterns - 20230228091212\|Chart Patterns - 20230228091212]]
 - [[10 Wiki/13 Plantations/Candlestick Pattern - 20230221094146\|Candlestick Pattern - 20230221094146]]
 - [[10 Wiki/13 Plantations/Elliott Wave Theory - 20230221100113\|Elliott Wave Theory - 20230221100113]]
 - [[10 Wiki/13 Plantations/Technical Indicators - 20230221104502\|Technical Indicators - 20230221104502]]
