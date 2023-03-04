@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Physics\|Physics]]
 
 Link:: https://www.goodreads.com/book/show/1168341.Physics_of_the_Impossible
