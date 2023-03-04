@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[10 Wiki/13 Plantations/Trading - 20230221094234\|Trading - 20230221094234]]
 
 Link:: https://www.goodreads.com/book/show/253516.Trading_in_the_Zone
