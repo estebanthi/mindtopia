@@ -12,7 +12,7 @@
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: 
 
 Link:: https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century
