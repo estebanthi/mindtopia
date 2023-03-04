@@ -26,7 +26,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Programming\|Programming]]
 
 Link:: 
