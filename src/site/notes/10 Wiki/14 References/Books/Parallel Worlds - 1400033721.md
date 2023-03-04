@@ -14,7 +14,7 @@
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: 
 
 Link:: https://www.goodreads.com/book/show/33418.Parallel_Worlds
