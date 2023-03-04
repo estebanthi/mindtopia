@@ -26,7 +26,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Algorithmic Trading\|Algorithmic Trading]]
 
 Link:: https://www.goodreads.com/book/show/22675886-building-winning-algorithmic-trading-systems
