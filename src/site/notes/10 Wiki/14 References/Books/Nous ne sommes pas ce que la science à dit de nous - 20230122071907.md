@@ -12,7 +12,7 @@
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Mankind\|Mankind]], [[Spirituality\|Spirituality]]
 
 Link:: https://www.goodreads.com/book/show/38736837-nous-ne-sommes-pas-ce-que-la-science-dit-de-nous
