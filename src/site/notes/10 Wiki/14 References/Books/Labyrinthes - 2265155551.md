@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Thriller\|Thriller]]
 
 Link:: https://www.goodreads.com/book/show/60763382-labyrinthes
