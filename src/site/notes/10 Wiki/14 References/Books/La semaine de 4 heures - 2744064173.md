@@ -12,7 +12,7 @@
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Productivity\|Productivity]], [[Business\|Business]]
 
 Link:: https://www.goodreads.com/book/show/8463558-la-semaine-de-4-heures
