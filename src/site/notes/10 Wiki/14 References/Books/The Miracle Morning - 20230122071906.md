@@ -25,7 +25,7 @@ modified: 20230122071942
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Productivity\|Productivity]]
 
 Link:: https://www.goodreads.com/book/show/17166225-the-miracle-morning
