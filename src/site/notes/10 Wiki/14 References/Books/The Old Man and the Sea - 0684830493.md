@@ -51,7 +51,7 @@ On the other hand, from a certain age a little more mature, one understands all 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Fiction\|Fiction]]
 
 Link:: https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea
