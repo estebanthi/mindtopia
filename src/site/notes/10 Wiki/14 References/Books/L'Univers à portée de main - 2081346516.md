@@ -23,12 +23,14 @@ modified: 20230122071942
 - [[10 Wiki/12 Notes/Alpha Particle - 20230126104711\|Alpha Particle - 20230126104711]]
 - [[10 Wiki/12 Notes/Big Bang - 20230215065119\|Big Bang - 20230215065119]]
 - [[10 Wiki/12 Notes/Black Hole - 20230215073856\|Black Hole - 20230215073856]]
+- [[10 Wiki/12 Notes/Casimir Effect - 20230228085303 1\|Casimir Effect - 20230228085303 1]]
+- [[10 Wiki/12 Notes/Casimir Effect - 20230228085303\|Casimir Effect - 20230228085303]]
 
 
 
 
 ###### META
-Status:: #wiki/references/goodreads
+Status:: #wiki/references/book
 Related:: [[Cosmology\|Cosmology]]
 
 Link:: https://www.goodreads.com/book/show/25604050-l-univers-port-e-de-main
