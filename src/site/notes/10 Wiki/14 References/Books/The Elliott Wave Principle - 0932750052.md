@@ -57,8 +57,8 @@ However, there is a lot of information in this book. Once you finish it, you fee
 I think every investor or trader should read it as it presents some very interesting ideas that are still relevant today. Even if you are not a technical analysis specialist and do not want to push Elliott Wave analysis very far, having some knowledge about it can always be useful to improve your decisions.
 
 ## Related Notes
-- [[10 Wiki/11 Wiki Inbox/Elliott Wave Combination - 20230303100938\|Elliott Wave Combination - 20230303100938]]
 - [[10 Wiki/12 Notes/Barrier Triangle - 20230129063551\|Barrier Triangle - 20230129063551]]
+- [[10 Wiki/12 Notes/Elliott Wave Combination - 20230303100938\|Elliott Wave Combination - 20230303100938]]
 - [[10 Wiki/13 Plantations/Elliott Wave Theory - 20230221100113\|Elliott Wave Theory - 20230221100113]]
 
 
