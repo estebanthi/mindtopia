@@ -1,10 +1,7 @@
 ---
-aliases: Risk management + deposit ideas
-dg-publish: true
-created: 20230123053810
-modified: 20230123053842
-tags: wiki/references/need-work, wiki/references/article 
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/prototype7185-risk-management-deposit2023/","tags":["wiki/references/need-work, wiki/references/article"]}
 ---
+
 # Risk Management + Deposit Ideas
 ---
 This Reddit post shares an interesting [[100 Zettelkasten/Risk Management\|Risk Management]] idea.
