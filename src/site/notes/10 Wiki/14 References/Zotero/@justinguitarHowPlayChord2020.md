@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/justinguitar-how-play-chord2020/","tags":["wiki/references/need-work","wiki/courses/guitar"]}
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/justinguitar-how-play-chord2020/","tags":["wiki/courses/guitar"]}
 ---
 
 # How to Play the D Chord on Guitar
