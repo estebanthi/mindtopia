@@ -1,8 +1,7 @@
 ---
-aliases: TypeScript Syntax Cheatsheets
-dg-publish: true
-tags: wiki/references/need-work 
+{"dg-publish":true,"permalink":"/10-wiki/14-references/zotero/thilliez-type-script-syntax-cheatsheets2023/"}
 ---
+
 # TypeScript Syntax Cheatsheets
 ---
 
