@@ -13,6 +13,6 @@ The result is the calibrated airspeed, which is the airspeed indicated by the ai
 
 
 ###### META
-Status:: #wiki/notes/embryo
+Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Aerotechnics - 20230216083955\|Aerotechnics]]
 References:: [[10 Wiki/14 References/Books/Le Manuel de Pilotage d'Avion - 20230122071907\|Le Manuel de Pilotage d'Avion]]
