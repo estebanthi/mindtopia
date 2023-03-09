@@ -10,6 +10,8 @@ updated: 20230221100116
 
 
 ## Plants
+- [[10 Wiki/11 Wiki Inbox/Contracting Diagonal - 20230309072939\|Contracting Diagonal - 20230309072939]]
+- [[10 Wiki/11 Wiki Inbox/Contracting Triangle - 20230309073140\|Contracting Triangle - 20230309073140]]
 - [[10 Wiki/12 Notes/Barrier Triangle - 20230129063551\|Barrier Triangle - 20230129063551]]
 - [[10 Wiki/12 Notes/Elliott Wave Combination - 20230303100938\|Elliott Wave Combination - 20230303100938]]
 
