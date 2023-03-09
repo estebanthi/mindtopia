@@ -11,11 +11,10 @@ Here you can find a collection of 30 random notes from my wiki. This collection 
 - [[10 Wiki/12 Notes/Capital Flow - 20230216083316\|Capital Flow - 20230216083316]]
 - [[10 Wiki/12 Notes/Camarilla Pivot Point - 20230216083205\|Camarilla Pivot Point - 20230216083205]]
 - [[10 Wiki/12 Notes/Builder - 20230216072034\|Builder - 20230216072034]]
-- [[10 Wiki/12 Notes/Breakout - 20230216071835\|Breakout - 20230216071835]]
 - [[10 Wiki/12 Notes/Bloomberg Dollar Spot Index - 20230216070647\|Bloomberg Dollar Spot Index - 20230216070647]]
 - [[10 Wiki/12 Notes/Bitcoin - 20230215071646\|Bitcoin - 20230215071646]]
-- [[10 Wiki/12 Notes/Bid - 20230215065026\|Bid - 20230215065026]]
 - [[10 Wiki/12 Notes/Bias Variance Tradeoff - 20230215064841\|Bias Variance Tradeoff - 20230215064841]]
+- [[10 Wiki/12 Notes/Bid - 20230215065026\|Bid - 20230215065026]]
 - [[10 Wiki/12 Notes/Behavioral Patterns - 20230129065055\|Behavioral Patterns - 20230129065055]]
 - [[10 Wiki/12 Notes/Behavioral Finance - 20230129064917\|Behavioral Finance - 20230129064917]]
 - [[10 Wiki/12 Notes/Barotrauma - 20230129063239\|Barotrauma - 20230129063239]]
@@ -34,8 +33,9 @@ Here you can find a collection of 30 random notes from my wiki. This collection 
 - [[10 Wiki/12 Notes/Aeronautical Train - 20230124103040\|Aeronautical Train - 20230124103040]]
 - [[10 Wiki/12 Notes/Aeronautical Lubrification - 20230123105615\|Aeronautical Lubrification - 20230123105615]]
 - [[10 Wiki/12 Notes/Aerodynamic Resultant - 20230123022053\|Aerodynamic Resultant - 20230123022053]]
-- [[10 Wiki/12 Notes/Aerodrome Integration - 20230123021122\|Aerodrome Integration - 20230123021122]]
 - [[10 Wiki/12 Notes/Adiabatic Cooling - 20230123112126\|Adiabatic Cooling - 20230123112126]]
+- [[10 Wiki/12 Notes/Aerodrome Integration - 20230123021122\|Aerodrome Integration - 20230123021122]]
+- [[10 Wiki/12 Notes/Breakout - 20230216071835\|Breakout - 20230216071835]]
 
 
 ## How is this Done?
