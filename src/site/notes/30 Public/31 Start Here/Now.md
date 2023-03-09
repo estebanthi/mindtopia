@@ -18,10 +18,10 @@ Currently, most of my time is spent at school as I'm still a student.
 | File                                                                                                                          | Type                        |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | [[10 Wiki/14 References/Books/How to Sell a Haunted House - 0593201264\|How to Sell a Haunted House - 0593201264]]         | #wiki/references/book       |
+| [[10 Wiki/14 References/OMDb/Inbox/2001 - A Space Odyssey - 1968\|2001 - A Space Odyssey - 1968]]                          | #wiki/references/omdb/movie |
 | [[10 Wiki/14 References/OMDb/Inbox/Babylon - 2022\|Babylon - 2022]]                                                        | #wiki/references/omdb/movie |
+| [[10 Wiki/14 References/OMDb/Inbox/The Good the Bad and the Ugly - 1966\|The Good the Bad and the Ugly - 1966]]            | #wiki/references/omdb/movie |
 | [[10 Wiki/14 References/Books/21 Lessons for the 21st Century - 0525512179\|21 Lessons for the 21st Century - 0525512179]] | #wiki/references/book       |
-| [[10 Wiki/14 References/OMDb/Inbox/The Taking of Deborah Logan - 2014\|The Taking of Deborah Logan - 2014]]                | #wiki/references/omdb/movie |
-| [[10 Wiki/14 References/Books/Inbox/The Extended Phenotype - 0198788916\|The Extended Phenotype - 0198788916]]             | #wiki/references/book       |
 
 
 ## Current [[Zettelkasten\|ZK]] Work
