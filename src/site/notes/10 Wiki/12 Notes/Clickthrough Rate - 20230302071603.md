@@ -13,6 +13,6 @@ Factors that can affect CTR include the ad's placement, format, design, messagin
 
 
 ###### META
-Status:: #wiki/notes/embryo
+Status:: #wiki/notes/mature 
 Plantations:: [[10 Wiki/13 Plantations/Digital Marketing - 20230302071640\|Digital Marketing]]
 References:: [[10 Wiki/14 References/Books/Ultimate Guide to Google AdWords - 1599180308\|Ultimate Guide to Google AdWords]]
