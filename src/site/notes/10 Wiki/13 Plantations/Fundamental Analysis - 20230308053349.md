@@ -8,7 +8,7 @@
 
 
 ## Plants
-- [[10 Wiki/11 Wiki Inbox/Commitment of Traders Report - 20230308053159\|Commitment of Traders Report - 20230308053159]]
+- [[10 Wiki/12 Notes/Commitment of Traders Report - 20230308053159\|Commitment of Traders Report - 20230308053159]]
 
 
 
