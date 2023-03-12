@@ -79,6 +79,8 @@ Before diving into the wiki, you should also check [[20 Me/Workflows/My Zettelka
 - [[10 Wiki/12 Notes/Carry Trade - 20230228084917\|Carry Trade - 20230228084917]]
 - [[10 Wiki/12 Notes/Casinos Bonuses Theory - 20230129064440\|Casinos Bonuses Theory - 20230129064440]]
 - [[10 Wiki/12 Notes/ChatGPT Prompts - 20230216065452\|ChatGPT Prompts - 20230216065452]]
+- [[10 Wiki/12 Notes/Compassion - 20230308053725\|Compassion - 20230308053725]]
+- [[10 Wiki/12 Notes/My Favorite Obsidian Themes - 20230308100421\|My Favorite Obsidian Themes - 20230308100421]]
 ```
 
 ## Embryos
