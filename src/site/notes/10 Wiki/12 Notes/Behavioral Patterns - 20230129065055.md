@@ -8,7 +8,7 @@ These are [[100 Zettelkasten/Design Patterns\|Design Patterns]] used to maintain
 
 There are different types:
 - [[Chain of Responsibility\|Chain of Responsibility]]
-- [[Command\|Command]]
+- [[10 Wiki/12 Notes/Command - 20230308100143\|Command - 20230308100143]]
 - [[100 Zettelkasten/Iterator\|Iterator]]
 - [[100 Zettelkasten/Mediator\|Mediator]]
 - [[100 Zettelkasten/Memento\|Memento]]
