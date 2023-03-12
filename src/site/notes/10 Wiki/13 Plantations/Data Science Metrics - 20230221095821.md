@@ -8,10 +8,10 @@
 
 
 ## Plants
-- [[10 Wiki/11 Wiki Inbox/Confusion Matrix - 20230309072019\|Confusion Matrix - 20230309072019]]
 - [[10 Wiki/12 Notes/Accuracy - 20230122113719\|Accuracy - 20230122113719]]
 - [[10 Wiki/12 Notes/Bias Variance Tradeoff - 20230215064841\|Bias Variance Tradeoff - 20230215064841]]
 - [[10 Wiki/12 Notes/Datascience Bias - 20230214093010\|Datascience Bias - 20230214093010]]
+- [[10 Wiki/12 Notes/Confusion Matrix - 20230309072019\|Confusion Matrix - 20230309072019]]
 
 
 
