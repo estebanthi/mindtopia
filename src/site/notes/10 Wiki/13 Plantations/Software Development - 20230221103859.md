@@ -12,8 +12,8 @@
 - [[10 Wiki/12 Notes/Compilation - 20230213030315\|Compilation - 20230213030315]]
 - [[10 Wiki/12 Notes/Git - 20230213072853\|Git - 20230213072853]]
 - [[10 Wiki/12 Notes/Linker - 20230213031113\|Linker - 20230213031113]]
-- [[10 Wiki/12 Notes/MAKE Utility - 20230213064111\|MAKE Utility - 20230213064111]]
 - [[10 Wiki/12 Notes/PATH - 20230213025648\|PATH - 20230213025648]]
+- [[10 Wiki/12 Notes/MAKE Utility - 20230213064111\|MAKE Utility - 20230213064111]]
 - [[10 Wiki/12 Notes/Preprocessor - 20230213030712\|Preprocessor - 20230213030712]]
 
 
