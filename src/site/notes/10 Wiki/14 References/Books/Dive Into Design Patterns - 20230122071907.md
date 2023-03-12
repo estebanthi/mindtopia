@@ -20,13 +20,13 @@ modified: 20230122071942
 ![](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543945452l/43125355._SY475_.jpg)
 
 ## Related Notes
-- [[10 Wiki/11 Wiki Inbox/Command - 20230308100143\|Command - 20230308100143]]
-- [[10 Wiki/11 Wiki Inbox/Composite - 20230308053903\|Composite - 20230308053903]]
 - [[10 Wiki/12 Notes/Abstract Factory - 20230122113146\|Abstract Factory - 20230122113146]]
 - [[10 Wiki/12 Notes/Adapter - 20230123120422\|Adapter - 20230123120422]]
 - [[10 Wiki/12 Notes/Behavioral Patterns - 20230129065055\|Behavioral Patterns - 20230129065055]]
 - [[10 Wiki/12 Notes/Builder - 20230216072034\|Builder - 20230216072034]]
 - [[10 Wiki/12 Notes/Chain of Responsibility - 20230228090935\|Chain of Responsibility - 20230228090935]]
+- [[10 Wiki/12 Notes/Command - 20230308100143\|Command - 20230308100143]]
+- [[10 Wiki/12 Notes/Composite - 20230308053903\|Composite - 20230308053903]]
 
 
 
