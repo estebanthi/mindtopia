@@ -16,10 +16,10 @@ All the data currently available is visible in the prices, which makes it possib
 
 
 ## Plants
-- [[10 Wiki/11 Wiki Inbox/Consolidation Zone - 20230309072609\|Consolidation Zone - 20230309072609]]
-- [[10 Wiki/11 Wiki Inbox/Continuation Breakout - 20230309072827\|Continuation Breakout - 20230309072827]]
 - [[10 Wiki/12 Notes/Bar Chart - 20230129035139\|Bar Chart - 20230129035139]]
 - [[10 Wiki/12 Notes/Breakout - 20230216071835\|Breakout - 20230216071835]]
+- [[10 Wiki/12 Notes/Consolidation Zone - 20230309072609\|Consolidation Zone - 20230309072609]]
+- [[10 Wiki/12 Notes/Continuation Breakout - 20230309072827\|Continuation Breakout - 20230309072827]]
 - [[10 Wiki/13 Plantations/Candlestick Pattern - 20230221094146\|Candlestick Pattern - 20230221094146]]
 - [[10 Wiki/13 Plantations/Chart Patterns - 20230228091212\|Chart Patterns - 20230228091212]]
 - [[10 Wiki/13 Plantations/Elliott Wave Theory - 20230221100113\|Elliott Wave Theory - 20230221100113]]
